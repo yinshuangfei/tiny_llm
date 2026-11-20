@@ -1,0 +1,21 @@
+{
+  "data": "data/tiny.txt",
+  "out": "checkpoints/tiny_bpe.pt",
+  "tokenizer": "bpe",
+  "vocab_size": 300,
+  "steps": 1000,
+  "batch_size": 8,
+  "seq_len": 64,
+  "dim": 64,
+  "layers": 2,
+  "heads": 4,
+  "lr": 0.0003,
+  "seed": 0,
+  "use_rope": true,
+  "use_gqa": true,
+  "warmup_steps": 50,
+  "min_lr_ratio": 0.1,
+  "scheduler": "cosine",
+  "grad_accum": 1,
+  "log_every": 50
+}
