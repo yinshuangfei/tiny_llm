@@ -13,6 +13,11 @@ LR ?= 3e-4
 PROMPT ?= the tiny model learns to
 TOKENS ?= 120
 TEMPERATURE ?= 0.2
+TOP_K ?= 0
+TOP_P ?= 1.0
+REPETITION_PENALTY ?= 1.0
+STOP ?=
+SEED ?= 0
 STREAM ?= 1
 
 ifeq ($(STREAM),1)
@@ -20,8 +25,15 @@ SAMPLE_FLAGS := --stream
 else
 SAMPLE_FLAGS :=
 endif
+SAMPLE_FLAGS += --seed $(SEED) --top-p $(TOP_P) --repetition-penalty $(REPETITION_PENALTY)
+ifneq ($(TOP_K),0)
+SAMPLE_FLAGS += --top-k $(TOP_K)
+endif
+ifneq ($(STOP),)
+SAMPLE_FLAGS += --stop "$(STOP)"
+endif
 
-.PHONY: all test train sample clean
+.PHONY: all test train sample eval clean
 
 all: test train sample
 
@@ -42,6 +54,10 @@ train: $(CHECKPOINT)
 sample: $(CHECKPOINT)
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.sample $(CHECKPOINT) \
 		--prompt "$(PROMPT)" --tokens $(TOKENS) --temperature $(TEMPERATURE) $(SAMPLE_FLAGS)
+
+eval: $(CHECKPOINT)
+	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.eval $(CHECKPOINT) $(DATA) \
+		--batch-size $(BATCH_SIZE)
 
 clean:
 	rm -rf .pytest_cache __pycache__ tests/__pycache__ src/tiny_llm/__pycache__
