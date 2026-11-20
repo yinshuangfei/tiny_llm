@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from collections.abc import Iterator
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -221,14 +223,14 @@ class TinyCausalLM(nn.Module):
         return self.lm_head(self.norm(x))
 
     @torch.no_grad()
-    def generate(
+    def generate_stream(
         self,
         input_ids: torch.Tensor,
         max_new_tokens: int,
         temperature: float = 1.0,
         top_k: int | None = None,
-    ) -> torch.Tensor:
-        """Generate one batch with KV cache when the modern attention is used."""
+    ) -> Iterator[int]:
+        """Yield token ids one at a time, using KV cache when available."""
         if input_ids.ndim != 2 or input_ids.size(0) != 1:
             raise ValueError("generate currently supports batch size 1")
         if max_new_tokens < 0:
@@ -238,21 +240,27 @@ class TinyCausalLM(nn.Module):
         supports_cache = self.use_rope or self.use_gqa
 
         if not supports_cache:
-            for _ in range(max_new_tokens):
+            # Old checkpoints keep a simple full-context generation path.
+            for step in range(max_new_tokens):
                 context = torch.tensor([ids[-self.max_seq_len:]])
                 logits = self(context)[0, -1]
                 next_id = _sample_token(logits, temperature, top_k)
                 ids.append(next_id)
-            return torch.tensor([ids], dtype=torch.long)
+                yield next_id
+            return
 
         # Prefill once. If the prompt is longer than the model window, keep its tail.
         context = ids[-self.max_seq_len :]
         cache = [None] * len(self.blocks)
         logits = self(torch.tensor([context]), kv_cache=cache)[0, -1]
 
-        for _ in range(max_new_tokens):
+        for step in range(max_new_tokens):
             next_id = _sample_token(logits, temperature, top_k)
             ids.append(next_id)
+            yield next_id
+
+            if step + 1 == max_new_tokens:
+                break
 
             cache_len = cache[0]["k"].shape[2] if cache[0] is not None else 0
             if cache_len >= self.max_seq_len:
@@ -262,4 +270,18 @@ class TinyCausalLM(nn.Module):
             else:
                 logits = self(torch.tensor([[next_id]]), kv_cache=cache)[0, -1]
 
+    @torch.no_grad()
+    def generate(
+        self,
+        input_ids: torch.Tensor,
+        max_new_tokens: int,
+        temperature: float = 1.0,
+        top_k: int | None = None,
+    ) -> torch.Tensor:
+        """Generate one batch and return all prompt + generated ids."""
+        ids = input_ids.tolist()[0]
+        for next_id in self.generate_stream(
+            input_ids, max_new_tokens, temperature, top_k
+        ):
+            ids.append(next_id)
         return torch.tensor([ids], dtype=torch.long)

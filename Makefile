@@ -13,6 +13,13 @@ LR ?= 3e-4
 PROMPT ?= the tiny model learns to
 TOKENS ?= 120
 TEMPERATURE ?= 0.2
+STREAM ?= 1
+
+ifeq ($(STREAM),1)
+SAMPLE_FLAGS := --stream
+else
+SAMPLE_FLAGS :=
+endif
 
 .PHONY: all test train sample clean
 
@@ -34,7 +41,7 @@ train: $(CHECKPOINT)
 
 sample: $(CHECKPOINT)
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.sample $(CHECKPOINT) \
-		--prompt "$(PROMPT)" --tokens $(TOKENS) --temperature $(TEMPERATURE)
+		--prompt "$(PROMPT)" --tokens $(TOKENS) --temperature $(TEMPERATURE) $(SAMPLE_FLAGS)
 
 clean:
 	rm -rf .pytest_cache __pycache__ tests/__pycache__ src/tiny_llm/__pycache__

@@ -48,3 +48,44 @@ def test_cached_generation_shape_and_repetition():
     )
     assert output.shape == (1, 11)
     assert all(0 <= token < 11 for token in output[0].tolist())
+
+def test_generate_stream_matches_generate_cached():
+    torch.manual_seed(9)
+    model = TinyCausalLM(
+        vocab_size=11,
+        dim=8,
+        layers=1,
+        heads=4,
+        max_seq_len=8,
+        use_rope=True,
+        use_gqa=True,
+    )
+    model.eval()
+    input_ids = torch.tensor([[1, 2, 3]])
+
+    expected = model.generate(input_ids, 5, temperature=0.1, top_k=1)
+    torch.manual_seed(9)
+    streamed = list(model.generate_stream(input_ids, 5, temperature=0.1, top_k=1))
+
+    assert streamed == expected[0, 3:].tolist()
+
+
+def test_generate_stream_matches_generate_without_cache():
+    torch.manual_seed(11)
+    model = TinyCausalLM(
+        vocab_size=11,
+        dim=8,
+        layers=1,
+        heads=2,
+        max_seq_len=8,
+        use_rope=False,
+        use_gqa=False,
+    )
+    model.eval()
+    input_ids = torch.tensor([[1, 2, 3]])
+
+    expected = model.generate(input_ids, 4, temperature=0.1, top_k=1)
+    torch.manual_seed(11)
+    streamed = list(model.generate_stream(input_ids, 4, temperature=0.1, top_k=1))
+
+    assert streamed == expected[0, 3:].tolist()
