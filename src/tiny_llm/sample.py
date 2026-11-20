@@ -9,24 +9,12 @@ from tiny_llm.train import load_checkpoint
 
 def generate(model, tokenizer, prompt: str,
              max_new_tokens=20, temperature=1.0, top_k=None):
-    model.eval()
     ids = tokenizer.encode(prompt)
-
-    with torch.no_grad():
-        for _ in range(max_new_tokens):
-            logits = model(torch.tensor([ids[-model.max_seq_len:]]))[0, -1]
-            logits = logits / max(temperature, 1e-6)
-
-            if top_k is not None and top_k > 0:
-                values, indices = torch.topk(logits, min(top_k, logits.size(-1)))
-                probs = torch.softmax(values, dim=-1)
-                next_id = int(indices[torch.multinomial(probs, 1)])
-            else:
-                next_id = int(torch.multinomial(torch.softmax(logits, dim=-1), 1))
-
-            ids.append(next_id)
-
-    return tokenizer.decode(ids)
+    if not ids:
+        raise ValueError("prompt produced no tokens")
+    input_ids = torch.tensor([ids], dtype=torch.long)
+    output = model.generate(input_ids, max_new_tokens, temperature, top_k)
+    return tokenizer.decode(output[0].tolist())
 
 
 def main():
