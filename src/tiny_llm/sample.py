@@ -10,7 +10,10 @@ from tiny_llm.train import load_checkpoint
 
 
 def _stop_cutoff(text: str, prompt_length: int, stop_sequences: list[str]) -> int | None:
-    """Return the cutoff where generated text first completes a stop string."""
+    """Return the cutoff where generated text first completes a stop string.
+
+    ``prompt_length`` is a character offset into ``text``, not a token count.
+    """
     cutoffs = []
     for stop in stop_sequences:
         if not stop:
@@ -38,6 +41,8 @@ def generate(model, tokenizer, prompt: str,
     input_ids = torch.tensor([ids], dtype=torch.long)
     generated: list[int] = []
     stop_sequences = stop_sequences or []
+    # Stop strings are matched on decoded text, so the boundary is in characters.
+    prompt_length = len(tokenizer.decode(ids))
 
     for token in model.generate_stream(
         input_ids, max_new_tokens, temperature, top_k,
@@ -45,7 +50,7 @@ def generate(model, tokenizer, prompt: str,
     ):
         generated.append(token)
         text = tokenizer.decode(ids + generated)
-        cutoff = _stop_cutoff(text, len(ids), stop_sequences)
+        cutoff = _stop_cutoff(text, prompt_length, stop_sequences)
         if cutoff is not None:
             return text[:cutoff]
 
@@ -68,9 +73,10 @@ def stream_generate(model, tokenizer, prompt: str,
     # Delay printing the tail while it could still become part of a stop string.
     holdback = max((len(stop) for stop in stop_sequences), default=1) - 1
     print(prompt, end="", flush=True)
-    printed_length = len(prompt)
     generated: list[int] = []
     input_ids = torch.tensor([ids], dtype=torch.long)
+    prompt_length = len(tokenizer.decode(ids))
+    printed_length = prompt_length
 
     for token in model.generate_stream(
         input_ids, max_new_tokens, temperature, top_k,
@@ -78,7 +84,7 @@ def stream_generate(model, tokenizer, prompt: str,
     ):
         generated.append(token)
         text = tokenizer.decode(ids + generated)
-        cutoff = _stop_cutoff(text, len(ids), stop_sequences)
+        cutoff = _stop_cutoff(text, prompt_length, stop_sequences)
         if cutoff is not None:
             end = min(cutoff, len(text))
             if end > printed_length:

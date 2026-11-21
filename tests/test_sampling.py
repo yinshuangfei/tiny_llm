@@ -1,8 +1,9 @@
 import pytest
 import torch
 
+from tiny_llm.bpe import BPETokenizer
 from tiny_llm.model import _apply_top_p, _sample_token, TinyCausalLM
-from tiny_llm.sample import build_parser
+from tiny_llm.sample import _stop_cutoff, build_parser, generate, stream_generate
 
 
 def test_temperature_zero_is_greedy():
@@ -50,6 +51,41 @@ def test_generate_stop_token_is_not_yielded():
         stop_token_ids=[1],
     )
     assert 1 not in output[0, 2:].tolist()
+
+
+class ScriptedModel:
+    def __init__(self, tokens):
+        self.tokens = list(tokens)
+
+    def generate_stream(self, input_ids, max_new_tokens, *args, **kwargs):
+        for token in self.tokens[:max_new_tokens]:
+            yield token
+
+
+def test_stop_string_uses_character_offset_not_token_count():
+    corpus = "User: hi\nAssistant: hello there.\n" * 8
+    tokenizer = BPETokenizer.train(corpus, vocab_size=300)
+    prompt = "User: hi\nAssistant:"
+    ids = tokenizer.encode(prompt)
+    assert len(ids) < len("User:")
+    reply = " hello there."
+    model = ScriptedModel(tokenizer.encode(reply))
+
+    text = generate(
+        model, tokenizer, prompt, max_new_tokens=20,
+        stop_sequences=["User:"],
+    )
+    assert text == prompt + reply
+
+    text, count = stream_generate(
+        model, tokenizer, prompt, max_new_tokens=20,
+        stop_sequences=["User:"],
+    )
+    assert text == prompt + reply
+    assert count == len(tokenizer.encode(reply))
+
+    spanned = "Use" + "r: done"
+    assert _stop_cutoff(spanned, len("Use"), ["User:"]) == 0
 
 
 def test_sample_parser_has_m6_flags():

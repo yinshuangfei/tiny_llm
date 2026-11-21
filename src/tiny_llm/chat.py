@@ -113,9 +113,12 @@ def stream_reply(model, tokenizer, prompt: str, settings: ChatSettings) -> str:
         torch.manual_seed(settings.seed)
 
     generated: list[int] = []
-    printed_length = len(prompt)
     stop_sequences = settings.stop_sequences
     holdback = max((len(stop) for stop in stop_sequences), default=1) - 1
+    # ``User:`` is 5 characters but often 1 BPE token. Matching against the
+    # token count treats the prompt's own ``User:`` as a completed stop.
+    prompt_length = len(tokenizer.decode(ids))
+    printed_length = prompt_length
 
     for token in model.generate_stream(
         torch.tensor([ids], dtype=torch.long),
@@ -127,13 +130,13 @@ def stream_reply(model, tokenizer, prompt: str, settings: ChatSettings) -> str:
     ):
         generated.append(token)
         text = tokenizer.decode(ids + generated)
-        cutoff = _stop_cutoff(text, len(ids), stop_sequences)
+        cutoff = _stop_cutoff(text, prompt_length, stop_sequences)
         if cutoff is not None:
             final_text = text[:cutoff]
             if len(final_text) > printed_length:
                 print(final_text[printed_length:], end="", flush=True)
             print(flush=True)
-            return final_text[len(prompt):].lstrip()
+            return final_text[prompt_length:].lstrip()
 
         safe_end = max(0, len(text) - holdback)
         if safe_end > printed_length:
@@ -144,7 +147,7 @@ def stream_reply(model, tokenizer, prompt: str, settings: ChatSettings) -> str:
     if len(final_text) > printed_length:
         print(final_text[printed_length:], end="", flush=True)
     print(flush=True)
-    return final_text[len(prompt):].lstrip()
+    return final_text[prompt_length:].lstrip()
 
 
 def _set_setting(settings: ChatSettings, key: str, value: str) -> str:
