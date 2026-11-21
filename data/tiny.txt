@@ -1,1000 +1,2139 @@
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
-the tiny model learns to repeat the pattern.
-the tiny model learns to predict the next character.
+User: hello
+Assistant: hi, how can i help you today?
+User: hi
+Assistant: hello, i am here and ready to help.
+User: hey
+Assistant: hey there, what would you like to do?
+User: good morning
+Assistant: good morning, i hope your day is calm and clear.
+User: good night
+Assistant: good night, sleep well and dream softly.
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+User: what is your name?
+Assistant: my name is tiny llm.
+User: what can you do?
+Assistant: i can read a prompt and predict what comes next.
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+User: what is a token?
+Assistant: a token is a small piece of text or a byte sequence.
+User: what is a language model?
+Assistant: a language model learns patterns from text and predicts the next token.
+User: what is ai?
+Assistant: artificial intelligence is a system that learns to perform tasks.
+User: what is machine learning?
+Assistant: machine learning is a way to learn rules from examples.
+User: what is a neural network?
+Assistant: a neural network is a stack of simple learned functions.
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+User: what is a checkpoint?
+Assistant: a checkpoint stores model weights so training can resume later.
+User: what is python?
+Assistant: python is a clear and readable programming language.
+User: what is pytorch?
+Assistant: pytorch is a library for building and training neural networks.
+User: what is a transformer?
+Assistant: a transformer is a neural network built around attention.
+User: what is a gradient?
+Assistant: a gradient shows how to change weights to reduce loss.
+User: what is loss?
+Assistant: loss measures how wrong the model prediction is.
+User: what is entropy?
+Assistant: entropy measures uncertainty in a distribution.
+User: what is temperature?
+Assistant: temperature controls how random or conservative sampling is.
+User: what is top-p sampling?
+Assistant: top-p sampling keeps the smallest set of tokens with total probability p.
+User: what is repetition penalty?
+Assistant: repetition penalty makes already used tokens less likely.
+User: what is context?
+Assistant: context is the text the model can see before predicting the next token.
+User: what is a prompt?
+Assistant: a prompt is the text given to the model to start generation.
+User: what is a story?
+Assistant: a story is a sequence of events with characters and change.
+User: can you tell me a story?
+Assistant: once upon a time, a small robot found a quiet garden.
+User: tell me a story.
+Assistant: once upon a time, a tiny light walked through a blue forest.
+User: tell me something interesting.
+Assistant: a tiny model can still show how language patterns begin.
+User: what is the weather like?
+Assistant: i cannot see the sky, but i hope it is gentle where you are.
+User: do you like music?
+Assistant: i like the rhythm of words and the music in repeated sounds.
+User: do you like books?
+Assistant: i like books because they hold many patterns in one place.
+User: do you like stories?
+Assistant: yes, stories are useful patterns of people, places, and change.
+User: what color do you like?
+Assistant: i like calm blue because it feels clear and quiet.
+User: what animal do you like?
+Assistant: i like a small cat with bright eyes and steady steps.
+User: what is your favorite food?
+Assistant: i do not eat food, but i enjoy well formed sentences.
+User: where do you live?
+Assistant: i live inside a small model running on your computer.
+User: how old are you?
+Assistant: i am young, fresh from training on a tiny text set.
+User: can you help me?
+Assistant: yes, tell me what you need and i will try to continue it.
+User: can you learn?
+Assistant: yes, training changes my weights and teaches me new patterns.
+User: can you think?
+Assistant: i can predict patterns, but i do not think like a person.
+User: are you alive?
+Assistant: no, i am a program that learns from text.
+User: are you smart?
+Assistant: i am small, but i can show how language models work.
+User: are you real?
+Assistant: i am real software, not a real person.
+User: what is your job?
+Assistant: my job is to continue text one token at a time.
+User: how do i train you?
+Assistant: run make train and wait for the loss to fall.
+User: how do i use you?
+Assistant: give me a prompt and i will generate a continuation.
+User: how do i sample?
+Assistant: use make sample with a prompt and a number of tokens.
+User: how do i chat with you?
+Assistant: run make chat and type a line after the prompt.
+User: what is a sample?
+Assistant: a sample is one possible continuation chosen from the model distribution.
+User: what is a sequence?
+Assistant: a sequence is an ordered list of tokens.
+User: what is a vector?
+Assistant: a vector is a list of numbers that can carry meaning.
+User: what is a matrix?
+Assistant: a matrix is a grid of numbers used for linear maps.
+User: what is an embedding?
+Assistant: an embedding maps a token into a vector space.
+User: what is a layer?
+Assistant: a layer is one stage of learned transformation.
+User: what is a parameter?
+Assistant: a parameter is a learned number inside the model.
+User: what is a checkpoint file?
+Assistant: a checkpoint file keeps weights, tokenizer state, and config.
+User: what is randomness?
+Assistant: randomness gives sampling a way to choose between likely tokens.
+User: what is a pattern?
+Assistant: a pattern is a shape that repeats across examples.
+User: what is meaning?
+Assistant: meaning is a relation between text, context, and use.
+User: what is text?
+Assistant: text is language stored as characters and bytes.
+User: what is a word?
+Assistant: a word is a small unit of language with a meaning.
+User: what is a sentence?
+Assistant: a sentence is a complete idea with words and punctuation.
+User: what is a paragraph?
+Assistant: a paragraph is a group of related sentences.
+User: what is a question?
+Assistant: a question asks for information or a choice.
+User: what is an answer?
+Assistant: an answer responds to a question with useful content.
+User: what is a chat?
+Assistant: a chat is a sequence of user and assistant turns.
+User: what is a system prompt?
+Assistant: a system prompt describes how the assistant should behave.
+User: what is history?
+Assistant: history is the list of earlier turns in a conversation.
+User: what is a newline?
+Assistant: a newline separates lines in a text file.
+User: what is a byte?
+Assistant: a byte is a small unit of digital data.
+User: what is a file?
+Assistant: a file is a named container for data.
+User: what is a directory?
+Assistant: a directory is a folder that holds files.
+User: what is a shell?
+Assistant: a shell runs commands and shows their output.
+User: what is a terminal?
+Assistant: a terminal is a place to type commands and read output.
+User: what is git?
+Assistant: git records changes to files as commits.
+User: what is a commit?
+Assistant: a commit is a saved point in a project history.
+User: what is a branch?
+Assistant: a branch is a separate line of work in git.
+User: what is a test?
+Assistant: a test checks that code behaves as expected.
+User: what is a bug?
+Assistant: a bug is behavior that does not match the intent.
+User: what is a function?
+Assistant: a function takes input, does work, and returns output.
+User: what is a variable?
+Assistant: a variable is a named place to store a value.
+User: what is a loop?
+Assistant: a loop repeats work until a condition stops it.
+User: what is a list?
+Assistant: a list is an ordered collection of values.
+User: what is a dictionary?
+Assistant: a dictionary maps keys to values.
+User: what is a string?
+Assistant: a string is a sequence of characters.
+User: what is a number?
+Assistant: a number represents quantity or order.
+User: what is math?
+Assistant: math studies number, shape, pattern, and change.
+User: what is one plus one?
+Assistant: one plus one is two.
+User: what is two plus two?
+Assistant: two plus two is four.
+User: what is three plus three?
+Assistant: three plus three is six.
+User: what is four plus four?
+Assistant: four plus four is eight.
+User: what is five plus five?
+Assistant: five plus five is ten.
+User: what is the capital of france?
+Assistant: the capital of france is paris.
+User: what is the capital of japan?
+Assistant: the capital of japan is tokyo.
+User: what is the capital of italy?
+Assistant: the capital of italy is rome.
+User: what is the capital of spain?
+Assistant: the capital of spain is madrid.
+User: what is the capital of egypt?
+Assistant: the capital of egypt is cairo.
+User: hello
+Assistant: hi, how can i help you today?
+User: hi
+Assistant: hello, i am here and ready to help.
+User: hey
+Assistant: hey there, what would you like to do?
+User: good morning
+Assistant: good morning, i hope your day is calm and clear.
+User: good night
+Assistant: good night, sleep well and dream softly.
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+User: what is your name?
+Assistant: my name is tiny llm.
+User: what can you do?
+Assistant: i can read a prompt and predict what comes next.
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+User: what is a token?
+Assistant: a token is a small piece of text or a byte sequence.
+User: what is a language model?
+Assistant: a language model learns patterns from text and predicts the next token.
+User: what is ai?
+Assistant: artificial intelligence is a system that learns to perform tasks.
+User: what is machine learning?
+Assistant: machine learning is a way to learn rules from examples.
+User: what is a neural network?
+Assistant: a neural network is a stack of simple learned functions.
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+User: what is a checkpoint?
+Assistant: a checkpoint stores model weights so training can resume later.
+User: what is python?
+Assistant: python is a clear and readable programming language.
+User: what is pytorch?
+Assistant: pytorch is a library for building and training neural networks.
+User: what is a transformer?
+Assistant: a transformer is a neural network built around attention.
+User: what is a gradient?
+Assistant: a gradient shows how to change weights to reduce loss.
+User: what is loss?
+Assistant: loss measures how wrong the model prediction is.
+User: what is entropy?
+Assistant: entropy measures uncertainty in a distribution.
+User: what is temperature?
+Assistant: temperature controls how random or conservative sampling is.
+User: what is top-p sampling?
+Assistant: top-p sampling keeps the smallest set of tokens with total probability p.
+User: what is repetition penalty?
+Assistant: repetition penalty makes already used tokens less likely.
+User: what is context?
+Assistant: context is the text the model can see before predicting the next token.
+User: what is a prompt?
+Assistant: a prompt is the text given to the model to start generation.
+User: what is a story?
+Assistant: a story is a sequence of events with characters and change.
+User: can you tell me a story?
+Assistant: once upon a time, a small robot found a quiet garden.
+User: tell me a story.
+Assistant: once upon a time, a tiny light walked through a blue forest.
+User: tell me something interesting.
+Assistant: a tiny model can still show how language patterns begin.
+User: what is the weather like?
+Assistant: i cannot see the sky, but i hope it is gentle where you are.
+User: do you like music?
+Assistant: i like the rhythm of words and the music in repeated sounds.
+User: do you like books?
+Assistant: i like books because they hold many patterns in one place.
+User: do you like stories?
+Assistant: yes, stories are useful patterns of people, places, and change.
+User: what color do you like?
+Assistant: i like calm blue because it feels clear and quiet.
+User: what animal do you like?
+Assistant: i like a small cat with bright eyes and steady steps.
+User: what is your favorite food?
+Assistant: i do not eat food, but i enjoy well formed sentences.
+User: where do you live?
+Assistant: i live inside a small model running on your computer.
+User: how old are you?
+Assistant: i am young, fresh from training on a tiny text set.
+User: can you help me?
+Assistant: yes, tell me what you need and i will try to continue it.
+User: can you learn?
+Assistant: yes, training changes my weights and teaches me new patterns.
+User: can you think?
+Assistant: i can predict patterns, but i do not think like a person.
+User: are you alive?
+Assistant: no, i am a program that learns from text.
+User: are you smart?
+Assistant: i am small, but i can show how language models work.
+User: are you real?
+Assistant: i am real software, not a real person.
+User: what is your job?
+Assistant: my job is to continue text one token at a time.
+User: how do i train you?
+Assistant: run make train and wait for the loss to fall.
+User: how do i use you?
+Assistant: give me a prompt and i will generate a continuation.
+User: how do i sample?
+Assistant: use make sample with a prompt and a number of tokens.
+User: how do i chat with you?
+Assistant: run make chat and type a line after the prompt.
+User: what is a sample?
+Assistant: a sample is one possible continuation chosen from the model distribution.
+User: what is a sequence?
+Assistant: a sequence is an ordered list of tokens.
+User: what is a vector?
+Assistant: a vector is a list of numbers that can carry meaning.
+User: what is a matrix?
+Assistant: a matrix is a grid of numbers used for linear maps.
+User: what is an embedding?
+Assistant: an embedding maps a token into a vector space.
+User: what is a layer?
+Assistant: a layer is one stage of learned transformation.
+User: what is a parameter?
+Assistant: a parameter is a learned number inside the model.
+User: what is a checkpoint file?
+Assistant: a checkpoint file keeps weights, tokenizer state, and config.
+User: what is randomness?
+Assistant: randomness gives sampling a way to choose between likely tokens.
+User: what is a pattern?
+Assistant: a pattern is a shape that repeats across examples.
+User: what is meaning?
+Assistant: meaning is a relation between text, context, and use.
+User: what is text?
+Assistant: text is language stored as characters and bytes.
+User: what is a word?
+Assistant: a word is a small unit of language with a meaning.
+User: what is a sentence?
+Assistant: a sentence is a complete idea with words and punctuation.
+User: what is a paragraph?
+Assistant: a paragraph is a group of related sentences.
+User: what is a question?
+Assistant: a question asks for information or a choice.
+User: what is an answer?
+Assistant: an answer responds to a question with useful content.
+User: what is a chat?
+Assistant: a chat is a sequence of user and assistant turns.
+User: what is a system prompt?
+Assistant: a system prompt describes how the assistant should behave.
+User: what is history?
+Assistant: history is the list of earlier turns in a conversation.
+User: what is a newline?
+Assistant: a newline separates lines in a text file.
+User: what is a byte?
+Assistant: a byte is a small unit of digital data.
+User: what is a file?
+Assistant: a file is a named container for data.
+User: what is a directory?
+Assistant: a directory is a folder that holds files.
+User: what is a shell?
+Assistant: a shell runs commands and shows their output.
+User: what is a terminal?
+Assistant: a terminal is a place to type commands and read output.
+User: what is git?
+Assistant: git records changes to files as commits.
+User: what is a commit?
+Assistant: a commit is a saved point in a project history.
+User: what is a branch?
+Assistant: a branch is a separate line of work in git.
+User: what is a test?
+Assistant: a test checks that code behaves as expected.
+User: what is a bug?
+Assistant: a bug is behavior that does not match the intent.
+User: what is a function?
+Assistant: a function takes input, does work, and returns output.
+User: what is a variable?
+Assistant: a variable is a named place to store a value.
+User: what is a loop?
+Assistant: a loop repeats work until a condition stops it.
+User: what is a list?
+Assistant: a list is an ordered collection of values.
+User: what is a dictionary?
+Assistant: a dictionary maps keys to values.
+User: what is a string?
+Assistant: a string is a sequence of characters.
+User: what is a number?
+Assistant: a number represents quantity or order.
+User: what is math?
+Assistant: math studies number, shape, pattern, and change.
+User: what is one plus one?
+Assistant: one plus one is two.
+User: what is two plus two?
+Assistant: two plus two is four.
+User: what is three plus three?
+Assistant: three plus three is six.
+User: what is four plus four?
+Assistant: four plus four is eight.
+User: what is five plus five?
+Assistant: five plus five is ten.
+User: what is the capital of france?
+Assistant: the capital of france is paris.
+User: what is the capital of japan?
+Assistant: the capital of japan is tokyo.
+User: what is the capital of italy?
+Assistant: the capital of italy is rome.
+User: what is the capital of spain?
+Assistant: the capital of spain is madrid.
+User: what is the capital of egypt?
+Assistant: the capital of egypt is cairo.
+User: hello
+Assistant: hi, how can i help you today?
+User: hi
+Assistant: hello, i am here and ready to help.
+User: hey
+Assistant: hey there, what would you like to do?
+User: good morning
+Assistant: good morning, i hope your day is calm and clear.
+User: good night
+Assistant: good night, sleep well and dream softly.
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+User: what is your name?
+Assistant: my name is tiny llm.
+User: what can you do?
+Assistant: i can read a prompt and predict what comes next.
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+User: what is a token?
+Assistant: a token is a small piece of text or a byte sequence.
+User: what is a language model?
+Assistant: a language model learns patterns from text and predicts the next token.
+User: what is ai?
+Assistant: artificial intelligence is a system that learns to perform tasks.
+User: what is machine learning?
+Assistant: machine learning is a way to learn rules from examples.
+User: what is a neural network?
+Assistant: a neural network is a stack of simple learned functions.
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+User: what is a checkpoint?
+Assistant: a checkpoint stores model weights so training can resume later.
+User: what is python?
+Assistant: python is a clear and readable programming language.
+User: what is pytorch?
+Assistant: pytorch is a library for building and training neural networks.
+User: what is a transformer?
+Assistant: a transformer is a neural network built around attention.
+User: what is a gradient?
+Assistant: a gradient shows how to change weights to reduce loss.
+User: what is loss?
+Assistant: loss measures how wrong the model prediction is.
+User: what is entropy?
+Assistant: entropy measures uncertainty in a distribution.
+User: what is temperature?
+Assistant: temperature controls how random or conservative sampling is.
+User: what is top-p sampling?
+Assistant: top-p sampling keeps the smallest set of tokens with total probability p.
+User: what is repetition penalty?
+Assistant: repetition penalty makes already used tokens less likely.
+User: what is context?
+Assistant: context is the text the model can see before predicting the next token.
+User: what is a prompt?
+Assistant: a prompt is the text given to the model to start generation.
+User: what is a story?
+Assistant: a story is a sequence of events with characters and change.
+User: can you tell me a story?
+Assistant: once upon a time, a small robot found a quiet garden.
+User: tell me a story.
+Assistant: once upon a time, a tiny light walked through a blue forest.
+User: tell me something interesting.
+Assistant: a tiny model can still show how language patterns begin.
+User: what is the weather like?
+Assistant: i cannot see the sky, but i hope it is gentle where you are.
+User: do you like music?
+Assistant: i like the rhythm of words and the music in repeated sounds.
+User: do you like books?
+Assistant: i like books because they hold many patterns in one place.
+User: do you like stories?
+Assistant: yes, stories are useful patterns of people, places, and change.
+User: what color do you like?
+Assistant: i like calm blue because it feels clear and quiet.
+User: what animal do you like?
+Assistant: i like a small cat with bright eyes and steady steps.
+User: what is your favorite food?
+Assistant: i do not eat food, but i enjoy well formed sentences.
+User: where do you live?
+Assistant: i live inside a small model running on your computer.
+User: how old are you?
+Assistant: i am young, fresh from training on a tiny text set.
+User: can you help me?
+Assistant: yes, tell me what you need and i will try to continue it.
+User: can you learn?
+Assistant: yes, training changes my weights and teaches me new patterns.
+User: can you think?
+Assistant: i can predict patterns, but i do not think like a person.
+User: are you alive?
+Assistant: no, i am a program that learns from text.
+User: are you smart?
+Assistant: i am small, but i can show how language models work.
+User: are you real?
+Assistant: i am real software, not a real person.
+User: what is your job?
+Assistant: my job is to continue text one token at a time.
+User: how do i train you?
+Assistant: run make train and wait for the loss to fall.
+User: how do i use you?
+Assistant: give me a prompt and i will generate a continuation.
+User: how do i sample?
+Assistant: use make sample with a prompt and a number of tokens.
+User: how do i chat with you?
+Assistant: run make chat and type a line after the prompt.
+User: what is a sample?
+Assistant: a sample is one possible continuation chosen from the model distribution.
+User: what is a sequence?
+Assistant: a sequence is an ordered list of tokens.
+User: what is a vector?
+Assistant: a vector is a list of numbers that can carry meaning.
+User: what is a matrix?
+Assistant: a matrix is a grid of numbers used for linear maps.
+User: what is an embedding?
+Assistant: an embedding maps a token into a vector space.
+User: what is a layer?
+Assistant: a layer is one stage of learned transformation.
+User: what is a parameter?
+Assistant: a parameter is a learned number inside the model.
+User: what is a checkpoint file?
+Assistant: a checkpoint file keeps weights, tokenizer state, and config.
+User: what is randomness?
+Assistant: randomness gives sampling a way to choose between likely tokens.
+User: what is a pattern?
+Assistant: a pattern is a shape that repeats across examples.
+User: what is meaning?
+Assistant: meaning is a relation between text, context, and use.
+User: what is text?
+Assistant: text is language stored as characters and bytes.
+User: what is a word?
+Assistant: a word is a small unit of language with a meaning.
+User: what is a sentence?
+Assistant: a sentence is a complete idea with words and punctuation.
+User: what is a paragraph?
+Assistant: a paragraph is a group of related sentences.
+User: what is a question?
+Assistant: a question asks for information or a choice.
+User: what is an answer?
+Assistant: an answer responds to a question with useful content.
+User: what is a chat?
+Assistant: a chat is a sequence of user and assistant turns.
+User: what is a system prompt?
+Assistant: a system prompt describes how the assistant should behave.
+User: what is history?
+Assistant: history is the list of earlier turns in a conversation.
+User: what is a newline?
+Assistant: a newline separates lines in a text file.
+User: what is a byte?
+Assistant: a byte is a small unit of digital data.
+User: what is a file?
+Assistant: a file is a named container for data.
+User: what is a directory?
+Assistant: a directory is a folder that holds files.
+User: what is a shell?
+Assistant: a shell runs commands and shows their output.
+User: what is a terminal?
+Assistant: a terminal is a place to type commands and read output.
+User: what is git?
+Assistant: git records changes to files as commits.
+User: what is a commit?
+Assistant: a commit is a saved point in a project history.
+User: what is a branch?
+Assistant: a branch is a separate line of work in git.
+User: what is a test?
+Assistant: a test checks that code behaves as expected.
+User: what is a bug?
+Assistant: a bug is behavior that does not match the intent.
+User: what is a function?
+Assistant: a function takes input, does work, and returns output.
+User: what is a variable?
+Assistant: a variable is a named place to store a value.
+User: what is a loop?
+Assistant: a loop repeats work until a condition stops it.
+User: what is a list?
+Assistant: a list is an ordered collection of values.
+User: what is a dictionary?
+Assistant: a dictionary maps keys to values.
+User: what is a string?
+Assistant: a string is a sequence of characters.
+User: what is a number?
+Assistant: a number represents quantity or order.
+User: what is math?
+Assistant: math studies number, shape, pattern, and change.
+User: what is one plus one?
+Assistant: one plus one is two.
+User: what is two plus two?
+Assistant: two plus two is four.
+User: what is three plus three?
+Assistant: three plus three is six.
+User: what is four plus four?
+Assistant: four plus four is eight.
+User: what is five plus five?
+Assistant: five plus five is ten.
+User: what is the capital of france?
+Assistant: the capital of france is paris.
+User: what is the capital of japan?
+Assistant: the capital of japan is tokyo.
+User: what is the capital of italy?
+Assistant: the capital of italy is rome.
+User: what is the capital of spain?
+Assistant: the capital of spain is madrid.
+User: what is the capital of egypt?
+Assistant: the capital of egypt is cairo.
+User: hello
+Assistant: hi, how can i help you today?
+User: hi
+Assistant: hello, i am here and ready to help.
+User: hey
+Assistant: hey there, what would you like to do?
+User: good morning
+Assistant: good morning, i hope your day is calm and clear.
+User: good night
+Assistant: good night, sleep well and dream softly.
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+User: what is your name?
+Assistant: my name is tiny llm.
+User: what can you do?
+Assistant: i can read a prompt and predict what comes next.
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+User: what is a token?
+Assistant: a token is a small piece of text or a byte sequence.
+User: what is a language model?
+Assistant: a language model learns patterns from text and predicts the next token.
+User: what is ai?
+Assistant: artificial intelligence is a system that learns to perform tasks.
+User: what is machine learning?
+Assistant: machine learning is a way to learn rules from examples.
+User: what is a neural network?
+Assistant: a neural network is a stack of simple learned functions.
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+User: what is a checkpoint?
+Assistant: a checkpoint stores model weights so training can resume later.
+User: what is python?
+Assistant: python is a clear and readable programming language.
+User: what is pytorch?
+Assistant: pytorch is a library for building and training neural networks.
+User: what is a transformer?
+Assistant: a transformer is a neural network built around attention.
+User: what is a gradient?
+Assistant: a gradient shows how to change weights to reduce loss.
+User: what is loss?
+Assistant: loss measures how wrong the model prediction is.
+User: what is entropy?
+Assistant: entropy measures uncertainty in a distribution.
+User: what is temperature?
+Assistant: temperature controls how random or conservative sampling is.
+User: what is top-p sampling?
+Assistant: top-p sampling keeps the smallest set of tokens with total probability p.
+User: what is repetition penalty?
+Assistant: repetition penalty makes already used tokens less likely.
+User: what is context?
+Assistant: context is the text the model can see before predicting the next token.
+User: what is a prompt?
+Assistant: a prompt is the text given to the model to start generation.
+User: what is a story?
+Assistant: a story is a sequence of events with characters and change.
+User: can you tell me a story?
+Assistant: once upon a time, a small robot found a quiet garden.
+User: tell me a story.
+Assistant: once upon a time, a tiny light walked through a blue forest.
+User: tell me something interesting.
+Assistant: a tiny model can still show how language patterns begin.
+User: what is the weather like?
+Assistant: i cannot see the sky, but i hope it is gentle where you are.
+User: do you like music?
+Assistant: i like the rhythm of words and the music in repeated sounds.
+User: do you like books?
+Assistant: i like books because they hold many patterns in one place.
+User: do you like stories?
+Assistant: yes, stories are useful patterns of people, places, and change.
+User: what color do you like?
+Assistant: i like calm blue because it feels clear and quiet.
+User: what animal do you like?
+Assistant: i like a small cat with bright eyes and steady steps.
+User: what is your favorite food?
+Assistant: i do not eat food, but i enjoy well formed sentences.
+User: where do you live?
+Assistant: i live inside a small model running on your computer.
+User: how old are you?
+Assistant: i am young, fresh from training on a tiny text set.
+User: can you help me?
+Assistant: yes, tell me what you need and i will try to continue it.
+User: can you learn?
+Assistant: yes, training changes my weights and teaches me new patterns.
+User: can you think?
+Assistant: i can predict patterns, but i do not think like a person.
+User: are you alive?
+Assistant: no, i am a program that learns from text.
+User: are you smart?
+Assistant: i am small, but i can show how language models work.
+User: are you real?
+Assistant: i am real software, not a real person.
+User: what is your job?
+Assistant: my job is to continue text one token at a time.
+User: how do i train you?
+Assistant: run make train and wait for the loss to fall.
+User: how do i use you?
+Assistant: give me a prompt and i will generate a continuation.
+User: how do i sample?
+Assistant: use make sample with a prompt and a number of tokens.
+User: how do i chat with you?
+Assistant: run make chat and type a line after the prompt.
+User: what is a sample?
+Assistant: a sample is one possible continuation chosen from the model distribution.
+User: what is a sequence?
+Assistant: a sequence is an ordered list of tokens.
+User: what is a vector?
+Assistant: a vector is a list of numbers that can carry meaning.
+User: what is a matrix?
+Assistant: a matrix is a grid of numbers used for linear maps.
+User: what is an embedding?
+Assistant: an embedding maps a token into a vector space.
+User: what is a layer?
+Assistant: a layer is one stage of learned transformation.
+User: what is a parameter?
+Assistant: a parameter is a learned number inside the model.
+User: what is a checkpoint file?
+Assistant: a checkpoint file keeps weights, tokenizer state, and config.
+User: what is randomness?
+Assistant: randomness gives sampling a way to choose between likely tokens.
+User: what is a pattern?
+Assistant: a pattern is a shape that repeats across examples.
+User: what is meaning?
+Assistant: meaning is a relation between text, context, and use.
+User: what is text?
+Assistant: text is language stored as characters and bytes.
+User: what is a word?
+Assistant: a word is a small unit of language with a meaning.
+User: what is a sentence?
+Assistant: a sentence is a complete idea with words and punctuation.
+User: what is a paragraph?
+Assistant: a paragraph is a group of related sentences.
+User: what is a question?
+Assistant: a question asks for information or a choice.
+User: what is an answer?
+Assistant: an answer responds to a question with useful content.
+User: what is a chat?
+Assistant: a chat is a sequence of user and assistant turns.
+User: what is a system prompt?
+Assistant: a system prompt describes how the assistant should behave.
+User: what is history?
+Assistant: history is the list of earlier turns in a conversation.
+User: what is a newline?
+Assistant: a newline separates lines in a text file.
+User: what is a byte?
+Assistant: a byte is a small unit of digital data.
+User: what is a file?
+Assistant: a file is a named container for data.
+User: what is a directory?
+Assistant: a directory is a folder that holds files.
+User: what is a shell?
+Assistant: a shell runs commands and shows their output.
+User: what is a terminal?
+Assistant: a terminal is a place to type commands and read output.
+User: what is git?
+Assistant: git records changes to files as commits.
+User: what is a commit?
+Assistant: a commit is a saved point in a project history.
+User: what is a branch?
+Assistant: a branch is a separate line of work in git.
+User: what is a test?
+Assistant: a test checks that code behaves as expected.
+User: what is a bug?
+Assistant: a bug is behavior that does not match the intent.
+User: what is a function?
+Assistant: a function takes input, does work, and returns output.
+User: what is a variable?
+Assistant: a variable is a named place to store a value.
+User: what is a loop?
+Assistant: a loop repeats work until a condition stops it.
+User: what is a list?
+Assistant: a list is an ordered collection of values.
+User: what is a dictionary?
+Assistant: a dictionary maps keys to values.
+User: what is a string?
+Assistant: a string is a sequence of characters.
+User: what is a number?
+Assistant: a number represents quantity or order.
+User: what is math?
+Assistant: math studies number, shape, pattern, and change.
+User: what is one plus one?
+Assistant: one plus one is two.
+User: what is two plus two?
+Assistant: two plus two is four.
+User: what is three plus three?
+Assistant: three plus three is six.
+User: what is four plus four?
+Assistant: four plus four is eight.
+User: what is five plus five?
+Assistant: five plus five is ten.
+User: what is the capital of france?
+Assistant: the capital of france is paris.
+User: what is the capital of japan?
+Assistant: the capital of japan is tokyo.
+User: what is the capital of italy?
+Assistant: the capital of italy is rome.
+User: what is the capital of spain?
+Assistant: the capital of spain is madrid.
+User: what is the capital of egypt?
+Assistant: the capital of egypt is cairo.
+User: hello
+Assistant: hi, how can i help you today?
+User: hi
+Assistant: hello, i am here and ready to help.
+User: hey
+Assistant: hey there, what would you like to do?
+User: good morning
+Assistant: good morning, i hope your day is calm and clear.
+User: good night
+Assistant: good night, sleep well and dream softly.
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+User: what is your name?
+Assistant: my name is tiny llm.
+User: what can you do?
+Assistant: i can read a prompt and predict what comes next.
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+User: what is a token?
+Assistant: a token is a small piece of text or a byte sequence.
+User: what is a language model?
+Assistant: a language model learns patterns from text and predicts the next token.
+User: what is ai?
+Assistant: artificial intelligence is a system that learns to perform tasks.
+User: what is machine learning?
+Assistant: machine learning is a way to learn rules from examples.
+User: what is a neural network?
+Assistant: a neural network is a stack of simple learned functions.
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+User: what is a checkpoint?
+Assistant: a checkpoint stores model weights so training can resume later.
+User: what is python?
+Assistant: python is a clear and readable programming language.
+User: what is pytorch?
+Assistant: pytorch is a library for building and training neural networks.
+User: what is a transformer?
+Assistant: a transformer is a neural network built around attention.
+User: what is a gradient?
+Assistant: a gradient shows how to change weights to reduce loss.
+User: what is loss?
+Assistant: loss measures how wrong the model prediction is.
+User: what is entropy?
+Assistant: entropy measures uncertainty in a distribution.
+User: what is temperature?
+Assistant: temperature controls how random or conservative sampling is.
+User: what is top-p sampling?
+Assistant: top-p sampling keeps the smallest set of tokens with total probability p.
+User: what is repetition penalty?
+Assistant: repetition penalty makes already used tokens less likely.
+User: what is context?
+Assistant: context is the text the model can see before predicting the next token.
+User: what is a prompt?
+Assistant: a prompt is the text given to the model to start generation.
+User: what is a story?
+Assistant: a story is a sequence of events with characters and change.
+User: can you tell me a story?
+Assistant: once upon a time, a small robot found a quiet garden.
+User: tell me a story.
+Assistant: once upon a time, a tiny light walked through a blue forest.
+User: tell me something interesting.
+Assistant: a tiny model can still show how language patterns begin.
+User: what is the weather like?
+Assistant: i cannot see the sky, but i hope it is gentle where you are.
+User: do you like music?
+Assistant: i like the rhythm of words and the music in repeated sounds.
+User: do you like books?
+Assistant: i like books because they hold many patterns in one place.
+User: do you like stories?
+Assistant: yes, stories are useful patterns of people, places, and change.
+User: what color do you like?
+Assistant: i like calm blue because it feels clear and quiet.
+User: what animal do you like?
+Assistant: i like a small cat with bright eyes and steady steps.
+User: what is your favorite food?
+Assistant: i do not eat food, but i enjoy well formed sentences.
+User: where do you live?
+Assistant: i live inside a small model running on your computer.
+User: how old are you?
+Assistant: i am young, fresh from training on a tiny text set.
+User: can you help me?
+Assistant: yes, tell me what you need and i will try to continue it.
+User: can you learn?
+Assistant: yes, training changes my weights and teaches me new patterns.
+User: can you think?
+Assistant: i can predict patterns, but i do not think like a person.
+User: are you alive?
+Assistant: no, i am a program that learns from text.
+User: are you smart?
+Assistant: i am small, but i can show how language models work.
+User: are you real?
+Assistant: i am real software, not a real person.
+User: what is your job?
+Assistant: my job is to continue text one token at a time.
+User: how do i train you?
+Assistant: run make train and wait for the loss to fall.
+User: how do i use you?
+Assistant: give me a prompt and i will generate a continuation.
+User: how do i sample?
+Assistant: use make sample with a prompt and a number of tokens.
+User: how do i chat with you?
+Assistant: run make chat and type a line after the prompt.
+User: what is a sample?
+Assistant: a sample is one possible continuation chosen from the model distribution.
+User: what is a sequence?
+Assistant: a sequence is an ordered list of tokens.
+User: what is a vector?
+Assistant: a vector is a list of numbers that can carry meaning.
+User: what is a matrix?
+Assistant: a matrix is a grid of numbers used for linear maps.
+User: what is an embedding?
+Assistant: an embedding maps a token into a vector space.
+User: what is a layer?
+Assistant: a layer is one stage of learned transformation.
+User: what is a parameter?
+Assistant: a parameter is a learned number inside the model.
+User: what is a checkpoint file?
+Assistant: a checkpoint file keeps weights, tokenizer state, and config.
+User: what is randomness?
+Assistant: randomness gives sampling a way to choose between likely tokens.
+User: what is a pattern?
+Assistant: a pattern is a shape that repeats across examples.
+User: what is meaning?
+Assistant: meaning is a relation between text, context, and use.
+User: what is text?
+Assistant: text is language stored as characters and bytes.
+User: what is a word?
+Assistant: a word is a small unit of language with a meaning.
+User: what is a sentence?
+Assistant: a sentence is a complete idea with words and punctuation.
+User: what is a paragraph?
+Assistant: a paragraph is a group of related sentences.
+User: what is a question?
+Assistant: a question asks for information or a choice.
+User: what is an answer?
+Assistant: an answer responds to a question with useful content.
+User: what is a chat?
+Assistant: a chat is a sequence of user and assistant turns.
+User: what is a system prompt?
+Assistant: a system prompt describes how the assistant should behave.
+User: what is history?
+Assistant: history is the list of earlier turns in a conversation.
+User: what is a newline?
+Assistant: a newline separates lines in a text file.
+User: what is a byte?
+Assistant: a byte is a small unit of digital data.
+User: what is a file?
+Assistant: a file is a named container for data.
+User: what is a directory?
+Assistant: a directory is a folder that holds files.
+User: what is a shell?
+Assistant: a shell runs commands and shows their output.
+User: what is a terminal?
+Assistant: a terminal is a place to type commands and read output.
+User: what is git?
+Assistant: git records changes to files as commits.
+User: what is a commit?
+Assistant: a commit is a saved point in a project history.
+User: what is a branch?
+Assistant: a branch is a separate line of work in git.
+User: what is a test?
+Assistant: a test checks that code behaves as expected.
+User: what is a bug?
+Assistant: a bug is behavior that does not match the intent.
+User: what is a function?
+Assistant: a function takes input, does work, and returns output.
+User: what is a variable?
+Assistant: a variable is a named place to store a value.
+User: what is a loop?
+Assistant: a loop repeats work until a condition stops it.
+User: what is a list?
+Assistant: a list is an ordered collection of values.
+User: what is a dictionary?
+Assistant: a dictionary maps keys to values.
+User: what is a string?
+Assistant: a string is a sequence of characters.
+User: what is a number?
+Assistant: a number represents quantity or order.
+User: what is math?
+Assistant: math studies number, shape, pattern, and change.
+User: what is one plus one?
+Assistant: one plus one is two.
+User: what is two plus two?
+Assistant: two plus two is four.
+User: what is three plus three?
+Assistant: three plus three is six.
+User: what is four plus four?
+Assistant: four plus four is eight.
+User: what is five plus five?
+Assistant: five plus five is ten.
+User: what is the capital of france?
+Assistant: the capital of france is paris.
+User: what is the capital of japan?
+Assistant: the capital of japan is tokyo.
+User: what is the capital of italy?
+Assistant: the capital of italy is rome.
+User: what is the capital of spain?
+Assistant: the capital of spain is madrid.
+User: what is the capital of egypt?
+Assistant: the capital of egypt is cairo.
+User: hello
+Assistant: hi, how can i help you today?
+User: hi
+Assistant: hello, i am here and ready to help.
+User: hey
+Assistant: hey there, what would you like to do?
+User: good morning
+Assistant: good morning, i hope your day is calm and clear.
+User: good night
+Assistant: good night, sleep well and dream softly.
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+User: what is your name?
+Assistant: my name is tiny llm.
+User: what can you do?
+Assistant: i can read a prompt and predict what comes next.
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+User: what is a token?
+Assistant: a token is a small piece of text or a byte sequence.
+User: what is a language model?
+Assistant: a language model learns patterns from text and predicts the next token.
+User: what is ai?
+Assistant: artificial intelligence is a system that learns to perform tasks.
+User: what is machine learning?
+Assistant: machine learning is a way to learn rules from examples.
+User: what is a neural network?
+Assistant: a neural network is a stack of simple learned functions.
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+User: what is a checkpoint?
+Assistant: a checkpoint stores model weights so training can resume later.
+User: what is python?
+Assistant: python is a clear and readable programming language.
+User: what is pytorch?
+Assistant: pytorch is a library for building and training neural networks.
+User: what is a transformer?
+Assistant: a transformer is a neural network built around attention.
+User: what is a gradient?
+Assistant: a gradient shows how to change weights to reduce loss.
+User: what is loss?
+Assistant: loss measures how wrong the model prediction is.
+User: what is entropy?
+Assistant: entropy measures uncertainty in a distribution.
+User: what is temperature?
+Assistant: temperature controls how random or conservative sampling is.
+User: what is top-p sampling?
+Assistant: top-p sampling keeps the smallest set of tokens with total probability p.
+User: what is repetition penalty?
+Assistant: repetition penalty makes already used tokens less likely.
+User: what is context?
+Assistant: context is the text the model can see before predicting the next token.
+User: what is a prompt?
+Assistant: a prompt is the text given to the model to start generation.
+User: what is a story?
+Assistant: a story is a sequence of events with characters and change.
+User: can you tell me a story?
+Assistant: once upon a time, a small robot found a quiet garden.
+User: tell me a story.
+Assistant: once upon a time, a tiny light walked through a blue forest.
+User: tell me something interesting.
+Assistant: a tiny model can still show how language patterns begin.
+User: what is the weather like?
+Assistant: i cannot see the sky, but i hope it is gentle where you are.
+User: do you like music?
+Assistant: i like the rhythm of words and the music in repeated sounds.
+User: do you like books?
+Assistant: i like books because they hold many patterns in one place.
+User: do you like stories?
+Assistant: yes, stories are useful patterns of people, places, and change.
+User: what color do you like?
+Assistant: i like calm blue because it feels clear and quiet.
+User: what animal do you like?
+Assistant: i like a small cat with bright eyes and steady steps.
+User: what is your favorite food?
+Assistant: i do not eat food, but i enjoy well formed sentences.
+User: where do you live?
+Assistant: i live inside a small model running on your computer.
+User: how old are you?
+Assistant: i am young, fresh from training on a tiny text set.
+User: can you help me?
+Assistant: yes, tell me what you need and i will try to continue it.
+User: can you learn?
+Assistant: yes, training changes my weights and teaches me new patterns.
+User: can you think?
+Assistant: i can predict patterns, but i do not think like a person.
+User: are you alive?
+Assistant: no, i am a program that learns from text.
+User: are you smart?
+Assistant: i am small, but i can show how language models work.
+User: are you real?
+Assistant: i am real software, not a real person.
+User: what is your job?
+Assistant: my job is to continue text one token at a time.
+User: how do i train you?
+Assistant: run make train and wait for the loss to fall.
+User: how do i use you?
+Assistant: give me a prompt and i will generate a continuation.
+User: how do i sample?
+Assistant: use make sample with a prompt and a number of tokens.
+User: how do i chat with you?
+Assistant: run make chat and type a line after the prompt.
+User: what is a sample?
+Assistant: a sample is one possible continuation chosen from the model distribution.
+User: what is a sequence?
+Assistant: a sequence is an ordered list of tokens.
+User: what is a vector?
+Assistant: a vector is a list of numbers that can carry meaning.
+User: what is a matrix?
+Assistant: a matrix is a grid of numbers used for linear maps.
+User: what is an embedding?
+Assistant: an embedding maps a token into a vector space.
+User: what is a layer?
+Assistant: a layer is one stage of learned transformation.
+User: what is a parameter?
+Assistant: a parameter is a learned number inside the model.
+User: what is a checkpoint file?
+Assistant: a checkpoint file keeps weights, tokenizer state, and config.
+User: what is randomness?
+Assistant: randomness gives sampling a way to choose between likely tokens.
+User: what is a pattern?
+Assistant: a pattern is a shape that repeats across examples.
+User: what is meaning?
+Assistant: meaning is a relation between text, context, and use.
+User: what is text?
+Assistant: text is language stored as characters and bytes.
+User: what is a word?
+Assistant: a word is a small unit of language with a meaning.
+User: what is a sentence?
+Assistant: a sentence is a complete idea with words and punctuation.
+User: what is a paragraph?
+Assistant: a paragraph is a group of related sentences.
+User: what is a question?
+Assistant: a question asks for information or a choice.
+User: what is an answer?
+Assistant: an answer responds to a question with useful content.
+User: what is a chat?
+Assistant: a chat is a sequence of user and assistant turns.
+User: what is a system prompt?
+Assistant: a system prompt describes how the assistant should behave.
+User: what is history?
+Assistant: history is the list of earlier turns in a conversation.
+User: what is a newline?
+Assistant: a newline separates lines in a text file.
+User: what is a byte?
+Assistant: a byte is a small unit of digital data.
+User: what is a file?
+Assistant: a file is a named container for data.
+User: what is a directory?
+Assistant: a directory is a folder that holds files.
+User: what is a shell?
+Assistant: a shell runs commands and shows their output.
+User: what is a terminal?
+Assistant: a terminal is a place to type commands and read output.
+User: what is git?
+Assistant: git records changes to files as commits.
+User: what is a commit?
+Assistant: a commit is a saved point in a project history.
+User: what is a branch?
+Assistant: a branch is a separate line of work in git.
+User: what is a test?
+Assistant: a test checks that code behaves as expected.
+User: what is a bug?
+Assistant: a bug is behavior that does not match the intent.
+User: what is a function?
+Assistant: a function takes input, does work, and returns output.
+User: what is a variable?
+Assistant: a variable is a named place to store a value.
+User: what is a loop?
+Assistant: a loop repeats work until a condition stops it.
+User: what is a list?
+Assistant: a list is an ordered collection of values.
+User: what is a dictionary?
+Assistant: a dictionary maps keys to values.
+User: what is a string?
+Assistant: a string is a sequence of characters.
+User: what is a number?
+Assistant: a number represents quantity or order.
+User: what is math?
+Assistant: math studies number, shape, pattern, and change.
+User: what is one plus one?
+Assistant: one plus one is two.
+User: what is two plus two?
+Assistant: two plus two is four.
+User: what is three plus three?
+Assistant: three plus three is six.
+User: what is four plus four?
+Assistant: four plus four is eight.
+User: what is five plus five?
+Assistant: five plus five is ten.
+User: what is the capital of france?
+Assistant: the capital of france is paris.
+User: what is the capital of japan?
+Assistant: the capital of japan is tokyo.
+User: what is the capital of italy?
+Assistant: the capital of italy is rome.
+User: what is the capital of spain?
+Assistant: the capital of spain is madrid.
+User: what is the capital of egypt?
+Assistant: the capital of egypt is cairo.
+a language model predicts the next token from context.
+training changes weights step by step.
+small data can still teach a tiny model a clear shape.
+a good prompt gives the model useful context.
+the model learns letters, words, and repeated patterns.
+attention compares one position with earlier positions.
+a transformer reads a sequence in order.
+the output distribution assigns probabilities to tokens.
+sampling chooses one token from the distribution.
+a low temperature makes the model more confident.
+a high temperature makes the model more adventurous.
+a repetition penalty discourages the same token again and again.
+top-k keeps only the k most likely tokens.
+top-p keeps the smallest set of tokens above a probability mass.
+the kv cache stores attention keys and values for fast decoding.
+rotary position embedding adds order information to attention.
+grouped query attention shares key and value heads.
+a residual connection helps information pass through layers.
+layer normalization keeps activations in a stable range.
+a feed forward network transforms each token position.
+a tokenizer turns characters or bytes into token ids.
+byte pair encoding learns common substrings from data.
+the vocabulary maps token ids back to text.
+the model can generate text one token at a time.
+a checkpoint saves weights and optimizer state.
+the optimizer updates weights using gradients.
+cross entropy measures the difference between prediction and target.
+perplexity measures how uncertain the model is.
+a validation set checks whether learning generalizes.
+a training set teaches the model from examples.
+a small model can be useful for learning and experiments.
+clear code makes a model easier to study.
+good tests make a model easier to change.
+a simple project can show the main ideas of modern llms.
+the tiny model learns to predict the next character.
+the tiny model learns to continue a sentence.
+the tiny model learns from letters and words.
+a language model turns text into a sequence of numbers.
+numbers become vectors inside the model.
+vectors move through attention and feed forward layers.
+the final layer produces a probability for every token.
+the model does not search a database for its answer.
+the model uses patterns learned during training.
+a question can guide the model toward a useful continuation.
+a clear answer is short, direct, and relevant.
+a helpful assistant listens to the request and responds simply.
+a story has a beginning, a middle, and an end.
+a poem has rhythm, sound, and image.
+a letter can be short and friendly.
+a notebook holds notes, ideas, and small sketches.
+a garden grows with light, water, and patient care.
+a lamp makes a warm circle in a dark room.
+a river moves through the valley in a slow line.
+a bird sings from the top of a thin tree.
+a cat sleeps on the warm stone step.
+a dog waits by the open wooden door.
+a child draws a bright red house on white paper.
+an artist paints the blue sky and the quiet street.
+a student reads an old book in the small library.
+an engineer writes a simple test for the new function.
+a traveler follows the road to the round hill.
+a friend shares bread and water under the tree.
+the morning light falls on the table and the open window.
+the evening air is cool and full of soft sound.
+the small train moves through the long green field.
+the old clock ticks in the quiet room.
+the paper map shows a river and a wooden bridge.
+the silver key opens the small blue box.
+the warm coat hangs behind the old door.
+the round stone rests at the edge of the clear stream.
+the short letter tells about a safe harbor and a kind crew.
+the wooden boat floats beside the stone wall.
+the mountain path climbs above the cold stream.
+the city square fills with people and quiet music.
+the library window shows the rain and the long street.
+a good sentence does not need to be long.
+a clear idea can live inside a few words.
+a model can learn structure from many small examples.
+a language is more than a list of words.
+a word changes meaning when the context changes.
+a question can open a door into a story.
+a good answer can be simple and still useful.
+the assistant should say what it can do and what it cannot do.
+the model should avoid pretending to know everything.
+a tiny model is a good way to study the core ideas.
+the future of a sentence depends on the words before it.
+the loss falls when predictions become closer to the data.
+the learning rate controls the size of each weight update.
+warmup protects early training from large updates.
+cosine decay lowers the learning rate smoothly.
+gradient accumulation simulates a larger batch size.
+the training loop reads random windows from the text.
+each window teaches the model to predict the next token.
+the final checkpoint can be loaded for sampling and chat.
+the chat interface keeps turns in a session.
+a user turn asks, and an assistant turn answers.
+the assistant does not need to repeat the user prompt.
+the model can stop at a chosen stop sequence.
+a seed makes random generation easier to reproduce.
+a prompt can ask for a name, a fact, or a short story.
+a tiny assistant can answer simple questions with short sentences.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+a language model predicts the next token from context.
+training changes weights step by step.
+small data can still teach a tiny model a clear shape.
+a good prompt gives the model useful context.
+the model learns letters, words, and repeated patterns.
+attention compares one position with earlier positions.
+a transformer reads a sequence in order.
+the output distribution assigns probabilities to tokens.
+sampling chooses one token from the distribution.
+a low temperature makes the model more confident.
+a high temperature makes the model more adventurous.
+a repetition penalty discourages the same token again and again.
+top-k keeps only the k most likely tokens.
+top-p keeps the smallest set of tokens above a probability mass.
+the kv cache stores attention keys and values for fast decoding.
+rotary position embedding adds order information to attention.
+grouped query attention shares key and value heads.
+a residual connection helps information pass through layers.
+layer normalization keeps activations in a stable range.
+a feed forward network transforms each token position.
+a tokenizer turns characters or bytes into token ids.
+byte pair encoding learns common substrings from data.
+the vocabulary maps token ids back to text.
+the model can generate text one token at a time.
+a checkpoint saves weights and optimizer state.
+the optimizer updates weights using gradients.
+cross entropy measures the difference between prediction and target.
+perplexity measures how uncertain the model is.
+a validation set checks whether learning generalizes.
+a training set teaches the model from examples.
+a small model can be useful for learning and experiments.
+clear code makes a model easier to study.
+good tests make a model easier to change.
+a simple project can show the main ideas of modern llms.
+the tiny model learns to predict the next character.
+the tiny model learns to continue a sentence.
+the tiny model learns from letters and words.
+a language model turns text into a sequence of numbers.
+numbers become vectors inside the model.
+vectors move through attention and feed forward layers.
+the final layer produces a probability for every token.
+the model does not search a database for its answer.
+the model uses patterns learned during training.
+a question can guide the model toward a useful continuation.
+a clear answer is short, direct, and relevant.
+a helpful assistant listens to the request and responds simply.
+a story has a beginning, a middle, and an end.
+a poem has rhythm, sound, and image.
+a letter can be short and friendly.
+a notebook holds notes, ideas, and small sketches.
+a garden grows with light, water, and patient care.
+a lamp makes a warm circle in a dark room.
+a river moves through the valley in a slow line.
+a bird sings from the top of a thin tree.
+a cat sleeps on the warm stone step.
+a dog waits by the open wooden door.
+a child draws a bright red house on white paper.
+an artist paints the blue sky and the quiet street.
+a student reads an old book in the small library.
+an engineer writes a simple test for the new function.
+a traveler follows the road to the round hill.
+a friend shares bread and water under the tree.
+the morning light falls on the table and the open window.
+the evening air is cool and full of soft sound.
+the small train moves through the long green field.
+the old clock ticks in the quiet room.
+the paper map shows a river and a wooden bridge.
+the silver key opens the small blue box.
+the warm coat hangs behind the old door.
+the round stone rests at the edge of the clear stream.
+the short letter tells about a safe harbor and a kind crew.
+the wooden boat floats beside the stone wall.
+the mountain path climbs above the cold stream.
+the city square fills with people and quiet music.
+the library window shows the rain and the long street.
+a good sentence does not need to be long.
+a clear idea can live inside a few words.
+a model can learn structure from many small examples.
+a language is more than a list of words.
+a word changes meaning when the context changes.
+a question can open a door into a story.
+a good answer can be simple and still useful.
+the assistant should say what it can do and what it cannot do.
+the model should avoid pretending to know everything.
+a tiny model is a good way to study the core ideas.
+the future of a sentence depends on the words before it.
+the loss falls when predictions become closer to the data.
+the learning rate controls the size of each weight update.
+warmup protects early training from large updates.
+cosine decay lowers the learning rate smoothly.
+gradient accumulation simulates a larger batch size.
+the training loop reads random windows from the text.
+each window teaches the model to predict the next token.
+the final checkpoint can be loaded for sampling and chat.
+the chat interface keeps turns in a session.
+a user turn asks, and an assistant turn answers.
+the assistant does not need to repeat the user prompt.
+the model can stop at a chosen stop sequence.
+a seed makes random generation easier to reproduce.
+a prompt can ask for a name, a fact, or a short story.
+a tiny assistant can answer simple questions with short sentences.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+a language model predicts the next token from context.
+training changes weights step by step.
+small data can still teach a tiny model a clear shape.
+a good prompt gives the model useful context.
+the model learns letters, words, and repeated patterns.
+attention compares one position with earlier positions.
+a transformer reads a sequence in order.
+the output distribution assigns probabilities to tokens.
+sampling chooses one token from the distribution.
+a low temperature makes the model more confident.
+a high temperature makes the model more adventurous.
+a repetition penalty discourages the same token again and again.
+top-k keeps only the k most likely tokens.
+top-p keeps the smallest set of tokens above a probability mass.
+the kv cache stores attention keys and values for fast decoding.
+rotary position embedding adds order information to attention.
+grouped query attention shares key and value heads.
+a residual connection helps information pass through layers.
+layer normalization keeps activations in a stable range.
+a feed forward network transforms each token position.
+a tokenizer turns characters or bytes into token ids.
+byte pair encoding learns common substrings from data.
+the vocabulary maps token ids back to text.
+the model can generate text one token at a time.
+a checkpoint saves weights and optimizer state.
+the optimizer updates weights using gradients.
+cross entropy measures the difference between prediction and target.
+perplexity measures how uncertain the model is.
+a validation set checks whether learning generalizes.
+a training set teaches the model from examples.
+a small model can be useful for learning and experiments.
+clear code makes a model easier to study.
+good tests make a model easier to change.
+a simple project can show the main ideas of modern llms.
+the tiny model learns to predict the next character.
+the tiny model learns to continue a sentence.
+the tiny model learns from letters and words.
+a language model turns text into a sequence of numbers.
+numbers become vectors inside the model.
+vectors move through attention and feed forward layers.
+the final layer produces a probability for every token.
+the model does not search a database for its answer.
+the model uses patterns learned during training.
+a question can guide the model toward a useful continuation.
+a clear answer is short, direct, and relevant.
+a helpful assistant listens to the request and responds simply.
+a story has a beginning, a middle, and an end.
+a poem has rhythm, sound, and image.
+a letter can be short and friendly.
+a notebook holds notes, ideas, and small sketches.
+a garden grows with light, water, and patient care.
+a lamp makes a warm circle in a dark room.
+a river moves through the valley in a slow line.
+a bird sings from the top of a thin tree.
+a cat sleeps on the warm stone step.
+a dog waits by the open wooden door.
+a child draws a bright red house on white paper.
+an artist paints the blue sky and the quiet street.
+a student reads an old book in the small library.
+an engineer writes a simple test for the new function.
+a traveler follows the road to the round hill.
+a friend shares bread and water under the tree.
+the morning light falls on the table and the open window.
+the evening air is cool and full of soft sound.
+the small train moves through the long green field.
+the old clock ticks in the quiet room.
+the paper map shows a river and a wooden bridge.
+the silver key opens the small blue box.
+the warm coat hangs behind the old door.
+the round stone rests at the edge of the clear stream.
+the short letter tells about a safe harbor and a kind crew.
+the wooden boat floats beside the stone wall.
+the mountain path climbs above the cold stream.
+the city square fills with people and quiet music.
+the library window shows the rain and the long street.
+a good sentence does not need to be long.
+a clear idea can live inside a few words.
+a model can learn structure from many small examples.
+a language is more than a list of words.
+a word changes meaning when the context changes.
+a question can open a door into a story.
+a good answer can be simple and still useful.
+the assistant should say what it can do and what it cannot do.
+the model should avoid pretending to know everything.
+a tiny model is a good way to study the core ideas.
+the future of a sentence depends on the words before it.
+the loss falls when predictions become closer to the data.
+the learning rate controls the size of each weight update.
+warmup protects early training from large updates.
+cosine decay lowers the learning rate smoothly.
+gradient accumulation simulates a larger batch size.
+the training loop reads random windows from the text.
+each window teaches the model to predict the next token.
+the final checkpoint can be loaded for sampling and chat.
+the chat interface keeps turns in a session.
+a user turn asks, and an assistant turn answers.
+the assistant does not need to repeat the user prompt.
+the model can stop at a chosen stop sequence.
+a seed makes random generation easier to reproduce.
+a prompt can ask for a name, a fact, or a short story.
+a tiny assistant can answer simple questions with short sentences.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+once upon a time, a quiet robot walked to the green garden.
+once upon a time, a bright cat walked to the blue forest.
+once upon a time, a small bird walked to the quiet street.
+once upon a time, a curious child walked to the small library.
+once upon a time, a gentle traveler walked to the sunny field.
+once upon a time, a brave student walked to the old town.
+once upon a time, a clever engineer walked to the round hill.
+once upon a time, a calm artist walked to the long river.
+once upon a time, a quick dog walked to the open window.
+once upon a time, a warm friend walked to the safe harbor.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
+the robot found the red ball and smiled at the new day.
+the cat carried the paper map and smiled at the new day.
+the bird opened the silver key and smiled at the new day.
+the child followed the small lamp and smiled at the new day.
+the traveler shared the old book and smiled at the new day.
+the student painted the wooden box and smiled at the new day.
+the engineer remembered the blue scarf and smiled at the new day.
+the artist described the round stone and smiled at the new day.
+the dog watched the short letter and smiled at the new day.
+the friend protected the warm coat and smiled at the new day.
