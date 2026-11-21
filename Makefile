@@ -29,6 +29,20 @@ STOP ?=
 SEED ?= 0
 STREAM ?= 1
 
+CHAT_PROMPT ?=
+CHAT_SYSTEM ?=
+CHAT_TEMPLATE ?= plain
+CHAT_TOKENS ?= 80
+CHAT_TEMPERATURE ?= 0.8
+CHAT_TOP_K ?= 0
+CHAT_TOP_P ?= 1.0
+CHAT_REPETITION_PENALTY ?= 1.0
+CHAT_STOP ?=
+CHAT_SEED ?=
+CHAT_STREAM ?= 1
+CHAT_ONCE ?= 0
+SHOW_PROMPT ?= 0
+
 ifeq ($(STREAM),1)
 SAMPLE_FLAGS := --stream
 else
@@ -58,7 +72,37 @@ ifneq ($(RESUME),)
 TRAIN_FLAGS += --resume $(RESUME)
 endif
 
-.PHONY: all test train resume sample eval clean
+CHAT_FLAGS := --tokens $(CHAT_TOKENS) --temperature $(CHAT_TEMPERATURE) \
+	--top-p $(CHAT_TOP_P) --repetition-penalty $(CHAT_REPETITION_PENALTY) \
+	--template $(CHAT_TEMPLATE)
+ifneq ($(CHAT_PROMPT),)
+CHAT_FLAGS += --prompt "$(CHAT_PROMPT)"
+endif
+ifneq ($(CHAT_SYSTEM),)
+CHAT_FLAGS += --system "$(CHAT_SYSTEM)"
+endif
+ifneq ($(CHAT_TOP_K),0)
+CHAT_FLAGS += --top-k $(CHAT_TOP_K)
+endif
+ifneq ($(CHAT_STOP),)
+CHAT_FLAGS += --stop "$(CHAT_STOP)"
+endif
+ifneq ($(CHAT_SEED),)
+CHAT_FLAGS += --seed $(CHAT_SEED)
+endif
+ifeq ($(CHAT_STREAM),1)
+CHAT_FLAGS += --stream
+else
+CHAT_FLAGS += --no-stream
+endif
+ifeq ($(CHAT_ONCE),1)
+CHAT_FLAGS += --once
+endif
+ifeq ($(SHOW_PROMPT),1)
+CHAT_FLAGS += --show-prompt
+endif
+
+.PHONY: all test train resume sample chat eval clean
 
 all: test train sample
 
@@ -77,6 +121,9 @@ resume:
 sample: $(CHECKPOINT)
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.sample $(CHECKPOINT) \
 		--prompt "$(PROMPT)" --tokens $(TOKENS) --temperature $(TEMPERATURE) $(SAMPLE_FLAGS)
+
+chat: $(CHECKPOINT)
+	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.chat $(CHECKPOINT) $(CHAT_FLAGS)
 
 eval: $(CHECKPOINT)
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.eval $(CHECKPOINT) $(DATA) \

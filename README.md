@@ -16,6 +16,7 @@
 - resumable optimizer checkpoint
 - JSON training config
 - JSONL training logs
+- interactive model chat CLI
 
 ## 常用命令
 
@@ -23,8 +24,15 @@
 make test
 make train
 make sample PROMPT="the tiny model learns to" TOKENS=80
+make chat CHAT_PROMPT="the tiny model learns to" CHAT_ONCE=1
 make eval
 make resume RESUME=checkpoints/tiny_bpe.pt STEPS=1200
+```
+
+进入交互模式：
+
+```bash
+make chat
 ```
 
 详细设计文档在 `doc/`。
