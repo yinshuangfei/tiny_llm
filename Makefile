@@ -1,6 +1,7 @@
 PYTHON ?= python
 PYTHONPATH ?= src
-DATA ?= data/tiny.txt
+DATA ?= data/processed/train.txt
+TRAIN_DATA ?= data/processed/manifest.json
 CHECKPOINT ?= checkpoints/tiny_bpe.pt
 CONFIG ?= configs/tiny_bpe.json
 TOKENIZER ?= bpe
@@ -8,8 +9,8 @@ VOCAB_SIZE ?= 512
 STEPS ?= 5000
 BATCH_SIZE ?= 8
 SEQ_LEN ?= 64
-DIM ?= 96
-LAYERS ?= 3
+DIM ?= 128
+LAYERS ?= 4
 HEADS ?= 4
 LR ?= 3e-4
 WARMUP ?= 50
@@ -102,21 +103,25 @@ ifeq ($(SHOW_PROMPT),1)
 CHAT_FLAGS += --show-prompt
 endif
 
-.PHONY: all test train resume sample chat eval clean
+.PHONY: all test data train resume sample chat eval clean
 
 all: test train sample
 
 test:
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m pytest -q
 
-train:
-	@mkdir -p checkpoints
-	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.train $(DATA) $(TRAIN_FLAGS)
+data:
+	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.dataset \
+		--raw data/raw --mixture data/mixture.json --out data/processed
 
-resume:
+train: data
+	@mkdir -p checkpoints
+	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.train $(TRAIN_DATA) $(TRAIN_FLAGS)
+
+resume: data
 	@test -n "$(RESUME)" || { echo "usage: make resume RESUME=checkpoints/tiny_bpe.pt STEPS=1200"; exit 2; }
 	@mkdir -p checkpoints
-	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.train $(DATA) $(TRAIN_FLAGS)
+	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.train $(TRAIN_DATA) $(TRAIN_FLAGS)
 
 sample: $(CHECKPOINT)
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.sample $(CHECKPOINT) \
@@ -125,7 +130,7 @@ sample: $(CHECKPOINT)
 chat: $(CHECKPOINT)
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.chat $(CHECKPOINT) $(CHAT_FLAGS)
 
-eval: $(CHECKPOINT)
+eval: $(CHECKPOINT) data
 	PYTHONPATH=$(PYTHONPATH) $(PYTHON) -m tiny_llm.eval $(CHECKPOINT) $(DATA) \
 		--batch-size $(BATCH_SIZE)
 

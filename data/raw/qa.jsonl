@@ -1,0 +1,4 @@
+{"id": "qa-token", "domain": "dialogue", "text": "User: what is a token?\nAssistant: a token is a small piece of text."}
+{"id": "qa-attention", "domain": "dialogue", "text": "User: what is attention?\nAssistant: attention lets a model look back at useful parts of the context."}
+{"id": "qa-python", "domain": "dialogue", "text": "User: what is python?\nAssistant: python is a programming language used to write short, readable programs."}
+{"id": "qa-loss", "domain": "dialogue", "text": "User: what is loss?\nAssistant: loss measures how far the next-token prediction is from the text."}

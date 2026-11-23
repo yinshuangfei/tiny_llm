@@ -1,0 +1,2 @@
+{"id": "noise-dup", "domain": "dialogue", "text": "User: hello\nAssistant: hi, how can i help you today?\nUser: what is your name?\nAssistant: my name is tiny llm."}
+{"id": "noise-repeat", "domain": "prose", "text": "ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok"}

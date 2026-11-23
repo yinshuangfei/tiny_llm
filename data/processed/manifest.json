@@ -1,0 +1,48 @@
+{
+  "by_domain": {
+    "code": 6,
+    "dialogue": 18,
+    "instruction": 6,
+    "longform": 2,
+    "math": 7,
+    "mixed": 3,
+    "prose": 6,
+    "tool": 5,
+    "zh": 5
+  },
+  "by_language": {
+    "en": 50,
+    "mixed": 6,
+    "zh": 2
+  },
+  "documents": "documents.jsonl",
+  "documents_in": 60,
+  "documents_kept": 58,
+  "dropped": {
+    "duplicate": 1,
+    "quality": 1
+  },
+  "packed_sequences": 200,
+  "packed_tokens": 13000,
+  "preference": "preference.jsonl",
+  "preference_dropped": 0,
+  "preference_in": 4,
+  "preference_kept": 4,
+  "seq_len": 64,
+  "target_tokens": 8192,
+  "tokenizer": "tokenizer.json",
+  "train": "train.jsonl",
+  "train_text": "train.txt",
+  "vocab_size": 512,
+  "weights": {
+    "code": 0.14,
+    "dialogue": 0.3,
+    "instruction": 0.1,
+    "longform": 0.08,
+    "math": 0.12,
+    "mixed": 0.02,
+    "prose": 0.12,
+    "tool": 0.08,
+    "zh": 0.04
+  }
+}

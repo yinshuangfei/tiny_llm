@@ -1,0 +1,17 @@
+{
+  "vocab_size": 512,
+  "seq_len": 64,
+  "target_tokens": 8192,
+  "seed": 0,
+  "weights": {
+    "dialogue": 0.30,
+    "prose": 0.12,
+    "code": 0.14,
+    "math": 0.12,
+    "instruction": 0.10,
+    "tool": 0.08,
+    "longform": 0.08,
+    "zh": 0.04,
+    "mixed": 0.02
+  }
+}

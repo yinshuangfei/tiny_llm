@@ -1,0 +1,7 @@
+{"id": "math-sum", "domain": "math", "text": "Problem: what is 7 + 5?\nReason: 7 + 3 = 10, and 2 remain, so 10 + 2 = 12.\nAnswer: 12."}
+{"id": "math-sum-chat", "domain": "math", "text": "User: what is 7 + 5?\nAssistant: 7 + 5 = 12."}
+{"id": "math-diff", "domain": "math", "text": "Problem: what is 20 - 6?\nReason: 20 - 10 = 10, then add the extra 4 back, so 10 + 4 = 14.\nAnswer: 14."}
+{"id": "math-product", "domain": "math", "text": "Problem: what is 6 times 4?\nReason: 6 + 6 + 6 + 6 = 24. Four groups of six make twenty-four.\nAnswer: 24."}
+{"id": "math-half", "domain": "math", "text": "Problem: what is half of 18?\nReason: 18 split into two equal groups is 9 and 9.\nAnswer: 9."}
+{"id": "math-sequence", "domain": "math", "text": "Problem: which number comes next: 2, 4, 6, 8?\nReason: each number is the previous number plus 2, so 8 + 2 = 10.\nAnswer: 10."}
+{"id": "math-share", "domain": "math", "text": "Problem: 12 apples are shared by 3 friends. how many apples does each friend get?\nReason: 12 / 3 = 4, because 3 groups of 4 make 12.\nAnswer: 4."}

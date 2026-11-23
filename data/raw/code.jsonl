@@ -1,0 +1,6 @@
+{"id": "code-add", "domain": "code", "text": "def add(left, right):\n    \"\"\"Return the sum of two numbers.\"\"\"\n    return left + right\n\nprint(add(2, 3))"}
+{"id": "code-tokens", "domain": "code", "text": "def count_tokens(text, tokenizer):\n    ids = tokenizer.encode(text)\n    return len(ids)\n\nprint(count_tokens(\"hello\", tokenizer))"}
+{"id": "code-window", "domain": "code", "text": "def windows(ids, seq_len):\n    width = seq_len + 1\n    return [ids[start:start + width] for start in range(0, len(ids) - width + 1, width)]"}
+{"id": "code-loss", "domain": "code", "text": "import torch.nn.functional as F\n\ndef next_token_loss(logits, targets):\n    return F.cross_entropy(logits.reshape(-1, logits.size(-1)), targets.reshape(-1))"}
+{"id": "code-read", "domain": "code", "text": "from pathlib import Path\n\ndef read_jsonl(path):\n    rows = []\n    for line in Path(path).read_text(encoding=\"utf-8\").splitlines():\n        if line.strip():\n            rows.append(line)\n    return rows"}
+{"id": "code-clamp", "domain": "code", "text": "def clamp(value, low, high):\n    if value < low:\n        return low\n    if value > high:\n        return high\n    return value"}

@@ -1,0 +1,8 @@
+{"id": "zh-model", "domain": "zh", "text": "我是一个小语言模型。我把文本切成 token，然后预测下一个 token。训练会调整权重，让预测损失变小。"}
+{"id": "zh-data", "domain": "zh", "text": "训练资料要先去重，再做语言识别、质量过滤和安全过滤。不同领域按权重混合，而不是把同一段话复制很多遍。"}
+{"id": "zh-chat", "domain": "zh", "text": "用户：你好。\n助手：你好，我可以和你一起看这段文本。\n用户：你是谁？\n助手：我是 tiny llm，一个很小的语言模型。"}
+{"id": "zh-hello-user", "domain": "zh", "text": "User: 你好\nAssistant: 你好，我是 tiny llm。"}
+{"id": "zh-who-user", "domain": "zh", "text": "User: 你是谁\nAssistant: 我是 tiny llm，一个很小的语言模型。"}
+{"id": "mixed-bpe", "domain": "mixed", "text": "这个模型使用 byte-level BPE tokenizer，把中文和 English 都编成 token，再送进 Transformer。"}
+{"id": "mixed-pack", "domain": "mixed", "text": "sequence packing 会把多篇文档拼进固定长度的序列。中文句子和 English sentences 可以出现在同一条训练样本里。"}
+{"id": "mixed-loss", "domain": "mixed", "text": "交叉熵 loss 用来衡量下一个 token 的预测有多差。perplexity 是 loss 的指数，数值越低说明模型越适应这份语料。"}

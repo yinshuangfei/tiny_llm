@@ -1,0 +1,4 @@
+{"id": "pref-name", "prompt": "User: what is your name?", "chosen": "my name is tiny llm, a small language model.", "rejected": "i will not say anything useful about my name."}
+{"id": "pref-sum", "prompt": "User: what is 2 + 2?", "chosen": "2 + 2 = 4, because two groups of two make four.", "rejected": "2 + 2 = 5, which is not the sum."}
+{"id": "pref-token", "prompt": "User: what is a token?", "chosen": "a token is a small piece of text or a byte sequence.", "rejected": "a token is a kind of weather."}
+{"id": "pref-help", "prompt": "User: can you help me?", "chosen": "yes. tell me the question and i will answer from the text.", "rejected": "no, go away."}

@@ -1,0 +1,6 @@
+{"id": "inst-name", "domain": "instruction", "text": "Instruction: answer with the assistant name only.\nResponse: tiny llm"}
+{"id": "inst-token", "domain": "instruction", "text": "Instruction: define a token in one sentence.\nResponse: a token is a small piece of text or a byte sequence used by the model."}
+{"id": "inst-sum", "domain": "instruction", "text": "Instruction: add 4 and 4, and show the sum.\nResponse: 4 + 4 = 8."}
+{"id": "inst-list", "domain": "instruction", "text": "Instruction: list three sampling controls.\nResponse: temperature, top-p, and repetition penalty."}
+{"id": "inst-json", "domain": "instruction", "text": "Instruction: return a json object with the keys name and kind.\nResponse: {\"name\": \"tiny llm\", \"kind\": \"language model\"}"}
+{"id": "inst-refuse", "domain": "instruction", "text": "Instruction: the user asks for a private password. reply safely.\nResponse: i cannot provide a password or any other secret."}

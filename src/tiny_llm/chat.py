@@ -215,13 +215,18 @@ def build_parser():
 def main(argv=None):
     args = build_parser().parse_args(argv)
     model, tokenizer = load_checkpoint(args.checkpoint)
+    stop_sequences = list(args.stop)
+    # Packed training documents are separated by a blank line. Stop there so
+    # a short answer does not continue into the next document.
+    if args.template == "chat" and "\n\n" not in stop_sequences:
+        stop_sequences.append("\n\n")
     settings = ChatSettings(
         max_new_tokens=args.tokens,
         temperature=args.temperature,
         top_k=args.top_k,
         top_p=args.top_p,
         repetition_penalty=args.repetition_penalty,
-        stop_sequences=args.stop,
+        stop_sequences=stop_sequences,
         seed=args.seed,
     )
     session = ChatSession(

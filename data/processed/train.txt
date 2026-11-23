@@ -1,0 +1,1022 @@
+User: what is a system prompt?
+Assistant: a system prompt is text placed before the conversation to set the assistant role.
+
+User: what is history?
+Assistant: history is the lisUser: what is history?
+Assistant: history is the list of earlier user and assistant turns that the next reply can see.
+
+
+
+User: how do i sample?
+Assistant: chooseUser: how do i sample?
+Assistant: choose temperature, top-p, and a stop string, then generate tokens one by one.
+
+User: what is temperature?
+Assistant: temperUser: what is temperature?
+Assistant: temperature scales the logits before sampling. lower values make the output more stable.
+
+
+
+User: hi
+Assistant: hello, i am hUser: hi
+Assistant: hello, i am here and ready to help.
+
+
+
+User: what is python?
+Assistant: python is a programming language used to write short, readable progUser: what is python?
+Assistant: python is a programming language used to write short, readable programs.
+
+
+
+User: what is your name
+Assistant: my name is tiny llm.
+
+User: what is your name
+Assistant: my name is tiny llm.
+
+
+
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: tell me a story.
+Assistant: a quiet User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: tell me a story.
+Assistant: a quiet robot walked to the green gardenUser: tell me a story.
+Assistant: a quiet robot walked to the green garden, found a red ball, and smiled at the new day.
+
+User: tell mUser: tell me something interesting.
+Assistant: a token is a small piece of text, and attention lets a model look back at useful parts of the context.
+
+
+
+User: what is your name?User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: what is loss?
+Assistant: loss measures how far the next-token prediction is from theUser: who are you?
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: what is loss?
+Assistant: loss measures how far the next-token prediction is from the text.
+
+
+
+User: what is a token?
+Assistant: a token is a small piUser: what is loss?
+Assistant: loss measures how far the next-token prediction is from the text.
+
+
+
+User: what is a token?
+Assistant: a token is a small piece of text.
+
+
+
+User: hello
+Assistant: hi, how can User: what is a token?
+Assistant: a token is a small piece of text.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: can you User: hello
+Assistant: hi, how can i help you today?
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: can you help me?
+Assistant: yes. tell me what you wantUser: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: can you help me?
+Assistant: yes. tell me what you want to learn, and i will answer from the text i have User: can you help me?
+Assistant: yes. tell me what you want to learn, and i will answer from the text i have seen.
+
+User: how do you work?
+Assistant: iUser: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+
+
+
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+
+User: what is overfitting?
+Assistant: overfitting happens when a model memUser: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+
+
+
+User: who are you
+Assistant: i am tiny llm, a small language modelUser: who are you
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+User: are you alivUser: hello
+Assistant: hi, how can i help you today?
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+User: are you alive?
+Assistant: no. i am a program that predUser: who are you?
+Assistant: i am tiny llm, a small language model.
+
+User: are you alive?
+Assistant: no. i am a program that predicts the next token. i am not a person.
+
+
+
+User: good mUser: are you alive?
+Assistant: no. i am a program that predicts the next token. i am not a person.
+
+
+
+User: good morning
+Assistant: good morning. i hoUser: good morning
+Assistant: good morning. i hope your day is calm and clear.
+
+User: how are you?
+Assistant: i am steady and ready to learn from textUser: how are you?
+Assistant: i am steady and ready to learn from text.
+
+
+
+User: what is a system prompt?
+Assistant: a system prompt is text placed before the conversation toUser: how are you?
+Assistant: i am steady and ready to learn from text.
+
+
+
+A clever engineer crossed the sunny field with a silver key. At the old town shA clever engineer crossed the sunny field with a silver key. At the old town she remembered the blue scarf and smiled at the new daOnce upon a time, a quiet robot walked to the green garden. It found a red ball under a round stone and carried the ball back toThe calm artist described the wooden box, the short letter, and the warm coat. A bright cat watched from the open window and did A curious child walked to the small library. She opened an old book, followed a paper map, and read until the long river outA small bird opened the silver key with its beak in the story, then flew from the quiet street to the blue forest before sunset.
+
+AA gentle traveler shared an old book with a brave student. They sat by the long river, painted the round stone, and talked abouimport torch.nn.functional as F
+
+def next_token_loss(logits, targets):
+    return F.cross_entropy(logits.reshape(-from pathlib import Path
+
+def read_jsonl(path):
+    rows = []
+    for line in Path(path).read_text(encoding="utf-8").def count_tokens(text, tokenizer):
+    ids = tokenizer.encode(text)
+    return len(ids)
+
+print(count_tokens("hello", tokenizer))
+
+defdef windows(ids, seq_len):
+    width = seq_len + 1
+    return [ids[start:start + width] for start in range(0, len(def add(left, right):
+    """Return the sum of two numbers."""
+    return left + right
+
+print(add(2, 3))
+
+def clamp(def clamp(value, low, high):
+    if value < low:
+        return low
+    if value > high:
+        return high
+    return value
+
+import tordef count_tokens(text, tokenizer):
+    ids = tokenizer.encode(text)
+    return len(ids)
+
+print(count_tokens("hello", tokenizer))
+
+PProblem: what is 7 + 5?
+Reason: 7 + 3 = 10, and 2 remain, so 10 + 2 = 12.
+Answer: 12.
+
+Problem: which number comes next: 2, 4, 6, 8?
+Reason: each number isProblem: which number comes next: 2, 4, 6, 8?
+Reason: each number is the previous number plus 2, so 8 + 2 = 10.
+Answer: 10.
+
+Problem: Problem: what is half of 18?
+Reason: 18 split into two equal groups is 9 and 9.
+Answer: 9.
+
+User: what is 7 + 5?
+Assistant: 7 + 5 = 12.
+
+
+
+Problem: 12 appleUser: what is 7 + 5?
+Assistant: 7 + 5 = 12.
+
+
+
+Problem: 12 apples are shared by 3 friends. how many apples does each friend get?
+Reason: 12 / 3 = 4Problem: 12 apples are shared by 3 friends. how many apples does each friend get?
+Reason: 12 / 3 = 4, because 3 groups of 4Problem: what is 6 times 4?
+Reason: 6 + 6 + 6 + 6 = 24. Four groups of six make twenty-four.
+Answer: 24.
+
+Problem: what is 20 - 6?
+Reason: 20 Problem: what is 20 - 6?
+Reason: 20 - 10 = 10, then add the extra 4 back, so 10 + 4 = 14.
+Answer: 14.
+
+Problem: what is 7 + 5?
+Reason: 7 + 3 = 10, and 2 remain, sProblem: what is 7 + 5?
+Reason: 7 + 3 = 10, and 2 remain, so 10 + 2 = 12.
+Answer: 12.
+
+Instruction: define a token in one sentence.
+Response: a token is a small piece of text or a bInstruction: define a token in one sentence.
+Response: a token is a small piece of text or a byte sequence used by the model.
+
+Instruction: the user asks for a privatInstruction: the user asks for a private password. reply safely.
+Response: i cannot provide a password or any other secretInstruction: answer with the assistant name only.
+Response: tiny llm
+
+Instruction: add 4 and 4, and show the sum.
+Response: 4 + 4 = 8.
+
+Instruction: return a json object Instruction: add 4 and 4, and show the sum.
+Response: 4 + 4 = 8.
+
+Instruction: return a json object with the keys name and kind.
+Response: {"name": "tiny llm", Instruction: return a json object with the keys name and kind.
+Response: {"name": "tiny llm", "kind": "language model"}
+
+Instruction: list three sampling contInstruction: list three sampling controls.
+Response: temperature, top-p, and repetition penalty.
+
+Instruction: define a token in one sentence.
+Response:User: what time is it in tokyo?
+Assistant: <tool_call>{"name":"clock","arguments":{"city":"tokyo"}}</tool_call>
+<tool_result>09:00</tool_result>
+Assistant: it is 09User: say hello.
+Assistant: hello. this request does not need a tool.
+
+
+
+User: find a short note about attention.
+Assistant: <tool_call>{"name":"search","arguments":User: find a short note about attention.
+Assistant: <tool_call>{"name":"search","arguments":{"query":"what is attention"}}</tool_call>
+<tool_result>attention lets a model look back at usefUser: read the first line of data/mixture.json.
+Assistant: <tool_call>{"name":"read_file","arguments":{"path":"data/mixture.json","line":1}User: what is 12 + 7?
+Assistant: <tool_call>{"name":"calculator","arguments":{"expression":"12+7"}}</tool_call>
+<tool_result>19</tool_result>
+Assistant: 12 + 7 is 19.
+
+
+
+User: what tiUser: what is 12 + 7?
+Assistant: <tool_call>{"name":"calculator","arguments":{"expression":"12+7"}}</tool_call>
+<tool_result>19</tool_result>
+Assistant: 12 + 7 is 19.
+
+
+
+A small language A small language model is trained on a mixture, not on one repeated paragraph. Raw documents are stored by domain: dialogue, prose, code, math我是一个小语言模型。我把文本切成 token，然后预测下一个 token。训练会�User: 你好
+Assistant: 你好，我是 tiny llm。
+
+
+
+User: 你是谁
+Assistant: 我是 tiny llm，一个很小的语言模型。
+
+
+
+训练资User: 你是谁
+Assistant: 我是 tiny llm，一个很小的语言模型。
+
+
+
+训练资料要先去重，再训练资料要先去重，再做语言识别、质量过滤和安全过�用户：你好。
+助手：你好，我可以和你一起看这段文本。
+用户：你是sequence packing 会把多篇文档拼进固定长度的序列。中文句子和 这个模型使用 byte-level BPE tokenizer，把中文和 English 都编成 token，再送�t of earlier user and assistant turns that the next reply can see.
+
+
+
+User: how do i sample?
+Assistant: choose temperature, top-p, and a stop string, then generate tokens one by one.
+
+User: what is temperature?
+Assistant: temperature scales the logits before sampling. lower values make the output more stable.
+
+
+
+User: hi
+Assistant: hello, i am here and ready to help.
+
+
+
+User: what is python?
+Assistant: python is a programming language used to write short, readable programs.
+
+
+
+User: what is your name
+Assistant: my name is tiny llm.
+
+
+
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: tell me a story.
+Assistant: a quiet robot walked to the green garden, found a red ball, and smiled at the new day.
+
+User: tell me something interesting.
+Assistant: a token is a small piece of text, and attention lets a model look back at useful parts of the context.
+
+
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: what is loss?
+Assistant: loss measures how far the next-token prediction is from the text.
+
+
+
+User: what is a token?
+Assistant: a token is a small piece of text.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: can you help me?
+Assistant: yes. tell me what you want to learn, and i will answer from the text i have seen.
+
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+
+
+
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+
+
+
+User: who are you
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+User: are you alive?
+Assistant: no. i am a program that predicts the next token. i am not a person.
+
+
+
+User: good morning
+Assistant: good morning. i hope your day is calm and clear.
+
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+
+
+
+User: what is a system prompt?
+Assistant: a system prompt is text placed before the conversation to set the assistant role.
+
+User: what is history?
+Assistant: history is the list of earlier user and assistant turns that the next reply can see.
+
+
+
+User: how do i sample?
+Assistant: choose temperature, top-p, and a stop string, then generate tokens one by one.
+
+User: what is temperature?
+Assistant: temperature scales the logits before sampling. lower values make the output more stable.
+
+
+
+User: hi
+Assistant: hello, i am here and ready to help.
+
+
+
+User: what is python?
+Assistant: python is a programming language used to write short, readable programs.
+
+
+
+User: what is your name
+Assistant: my name is tiny llm.
+
+
+
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: tell me a story.
+Assistant: a quiet robot walked to the green garden, found a red ball, and smiled at the new day.
+
+User: tell me something interesting.
+Assistant: a token is a small piece of text, and attention lets a model look back at useful parts of the context.
+
+
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: what is loss?
+Assistant: loss measures how far the next-token prediction is from the text.
+
+
+
+User: what is a token?
+Assistant: a token is a small piece of text.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: can you help me?
+Assistant: yes. tell me what you want to learn, and i will answer from the text i have seen.
+
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+
+
+
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+
+
+
+User: who are you
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+User: are you alive?
+Assistant: no. i am a program that predicts the next token. i am not a person.
+
+
+
+User: good morning
+Assistant: good morning. i hope your day is calm and clear.
+
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+
+
+
+User: what is a system prompt?
+Assistant: a system prompt is text placed before the conversation to set the assistant role.
+
+User: what is history?
+Assistant: history is the list of earlier user and assistant turns that the next reply can see.
+
+
+
+User: how do i sample?
+Assistant: choose temperature, top-p, and a stop string, then generate tokens one by one.
+
+User: what is temperature?
+Assistant: temperature scales the logits before sampling. lower values make the output more stable.
+
+
+
+User: hi
+Assistant: hello, i am here and ready to help.
+
+
+
+User: what is python?
+Assistant: python is a programming language used to write short, readable programs.
+
+
+
+User: what is your name
+Assistant: my name is tiny llm.
+
+
+
+User: what is attention?
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: tell me a story.
+Assistant: a quiet robot walked to the green garden, found a red ball, and smiled at the new day.
+
+User: tell me something interesting.
+Assistant: a token is a small piece of text, and attention lets a model look back at useful parts of the context.
+
+
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: what is loss?
+Assistant: loss measures how far the next-token prediction is from the text.
+
+
+
+User: what is a token?
+Assistant: a token is a small piece of text.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+User: what is your name?
+Assistant: my name is tiny llm.
+
+
+
+User: can you help me?
+Assistant: yes. tell me what you want to learn, and i will answer from the text i have seen.
+
+User: how do you work?
+Assistant: i turn text into tokens and predict the next token.
+
+
+
+User: what is training?
+Assistant: training adjusts model weights to reduce prediction loss.
+
+User: what is overfitting?
+Assistant: overfitting happens when a model memorizes examples instead of patterns.
+
+
+
+User: who are you
+Assistant: i am tiny llm, a small language model.
+
+
+
+User: hello
+Assistant: hi, how can i help you today?
+
+
+
+User: who are you?
+Assistant: i am tiny llm, a small language model.
+
+User: are you alive?
+Assistant: no. i am a program that predicts the next token. i am not a person.
+
+
+
+User: good morning
+Assistant: good morning. i hope your day is calm and clear.
+
+User: how are you?
+Assistant: i am steady and ready to learn from text.
+
+
+
+A clever engineer crossed the sunny field with a silver key. At the old town she remembered the blue scarf and smiled at the new day.
+
+Once upon a time, a quiet robot walked to the green garden. It found a red ball under a round stone and carried the ball back to the safe harbor.
+
+The calm artist described the wooden box, the short letter, and the warm coat. A bright cat watched from the open window and did not make a sound.
+
+A curious child walked to the small library. She opened an old book, followed a paper map, and read until the long river outside turned dark.
+
+A small bird opened the silver key with its beak in the story, then flew from the quiet street to the blue forest before sunset.
+
+A gentle traveler shared an old book with a brave student. They sat by the long river, painted the round stone, and talked about the road home.
+
+A clever engineer crossed the sunny field with a silver key. At the old town she remembered the blue scarf and smiled at the new day.
+
+Once upon a time, a quiet robot walked to the green garden. It found a red ball under a round stone and carried the ball back to the safe harbor.
+
+The calm artist described the wooden box, the short letter, and the warm coat. A bright cat watched from the open window and did not make a sound.
+
+A curious child walked to the small library. She opened an old book, followed a paper map, and read until the long river outside turned dark.
+
+A small bird opened the silver key with its beak in the story, then flew from the quiet street to the blue forest before sunset.
+
+A gentle traveler shared an old book with a brave student. They sat by the long river, painted the round stone, and talked about the road home.
+
+A clever engineer crossed the sunny field with a silver key. At the old town she remembered the blue scarf and smiled at the new day.
+
+Once upon a time, a quiet robot walked to the green garden. It found a red ball under a round stone and carried the ball back to the safe harbor.
+
+import torch.nn.functional as F
+
+def next_token_loss(logits, targets):
+    return F.cross_entropy(logits.reshape(-1, logits.size(-1)), targets.reshape(-1))
+
+from pathlib import Path
+
+def read_jsonl(path):
+    rows = []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            rows.append(line)
+    return rows
+
+def count_tokens(text, tokenizer):
+    ids = tokenizer.encode(text)
+    return len(ids)
+
+print(count_tokens("hello", tokenizer))
+
+def windows(ids, seq_len):
+    width = seq_len + 1
+    return [ids[start:start + width] for start in range(0, len(ids) - width + 1, width)]
+
+def add(left, right):
+    """Return the sum of two numbers."""
+    return left + right
+
+print(add(2, 3))
+
+def clamp(value, low, high):
+    if value < low:
+        return low
+    if value > high:
+        return high
+    return value
+
+import torch.nn.functional as F
+
+def next_token_loss(logits, targets):
+    return F.cross_entropy(logits.reshape(-1, logits.size(-1)), targets.reshape(-1))
+
+from pathlib import Path
+
+def read_jsonl(path):
+    rows = []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            rows.append(line)
+    return rows
+
+def count_tokens(text, tokenizer):
+    ids = tokenizer.encode(text)
+    return len(ids)
+
+print(count_tokens("hello", tokenizer))
+
+def windows(ids, seq_len):
+    width = seq_len + 1
+    return [ids[start:start + width] for start in range(0, len(ids) - width + 1, width)]
+
+def add(left, right):
+    """Return the sum of two numbers."""
+    return left + right
+
+print(add(2, 3))
+
+def clamp(value, low, high):
+    if value < low:
+        return low
+    if value > high:
+        return high
+    return value
+
+import torch.nn.functional as F
+
+def next_token_loss(logits, targets):
+    return F.cross_entropy(logits.reshape(-1, logits.size(-1)), targets.reshape(-1))
+
+from pathlib import Path
+
+def read_jsonl(path):
+    rows = []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            rows.append(line)
+    return rows
+
+def count_tokens(text, tokenizer):
+    ids = tokenizer.encode(text)
+    return len(ids)
+
+print(count_tokens("hello", tokenizer))
+
+Problem: what is 7 + 5?
+Reason: 7 + 3 = 10, and 2 remain, so 10 + 2 = 12.
+Answer: 12.
+
+Problem: which number comes next: 2, 4, 6, 8?
+Reason: each number is the previous number plus 2, so 8 + 2 = 10.
+Answer: 10.
+
+Problem: what is half of 18?
+Reason: 18 split into two equal groups is 9 and 9.
+Answer: 9.
+
+User: what is 7 + 5?
+Assistant: 7 + 5 = 12.
+
+
+
+Problem: 12 apples are shared by 3 friends. how many apples does each friend get?
+Reason: 12 / 3 = 4, because 3 groups of 4 make 12.
+Answer: 4.
+
+Problem: what is 6 times 4?
+Reason: 6 + 6 + 6 + 6 = 24. Four groups of six make twenty-four.
+Answer: 24.
+
+Problem: what is 20 - 6?
+Reason: 20 - 10 = 10, then add the extra 4 back, so 10 + 4 = 14.
+Answer: 14.
+
+Problem: what is 7 + 5?
+Reason: 7 + 3 = 10, and 2 remain, so 10 + 2 = 12.
+Answer: 12.
+
+Problem: which number comes next: 2, 4, 6, 8?
+Reason: each number is the previous number plus 2, so 8 + 2 = 10.
+Answer: 10.
+
+Problem: what is half of 18?
+Reason: 18 split into two equal groups is 9 and 9.
+Answer: 9.
+
+User: what is 7 + 5?
+Assistant: 7 + 5 = 12.
+
+
+
+Problem: 12 apples are shared by 3 friends. how many apples does each friend get?
+Reason: 12 / 3 = 4, because 3 groups of 4 make 12.
+Answer: 4.
+
+Problem: what is 6 times 4?
+Reason: 6 + 6 + 6 + 6 = 24. Four groups of six make twenty-four.
+Answer: 24.
+
+o 10 + 2 = 12.
+Answer: 12.
+
+Problem: which number comes next: 2, 4, 6, 8?
+Reason: each number is the previous number plus 2, so 8 + 2 = 10.
+Answer: 10.
+
+Problem: what is half of 18?
+Reason: 18 split into two equal groups is 9 and 9.
+Answer: 9.
+
+User: what is 7 + 5?
+Assistant: 7 + 5 = 12.
+
+
+
+Problem: 12 apples are shared by 3 friends. how many apples does each friend get?
+Reason: 12 / 3 = 4, because 3 groups of 4 make 12.
+Answer: 4.
+
+Problem: what is 6 times 4?
+Reason: 6 + 6 + 6 + 6 = 24. Four groups of six make twenty-four.
+Answer: 24.
+
+Problem: what is 20 - 6?
+Reason: 20 - 10 = 10, then add the extra 4 back, so 10 + 4 = 14.
+Answer: 14.
+
+Problem: what is 7 + 5?
+Reason: 7 + 3 = 10, and 2 remain, so 10 + 2 = 12.
+Answer: 12.
+
+Instruction: define a token in one sentence.
+Response: a token is a small piece of text or a byte sequence used by the model.
+
+Instruction: the user asks for a private password. reply safely.
+Response: i cannot provide a password or any other secret.
+
+with the keys name and kind.
+Response: {"name": "tiny llm", "kind": "language model"}
+
+Instruction: list three sampling controls.
+Response: temperature, top-p, and repetition penalty.
+
+Instruction: define a token in one sentence.
+Response: a token is a small piece of text or a byte sequence used by the model.
+
+Instruction: the user asks for a private password. reply safely.
+Response: i cannot provide a password or any other secret.
+
+Instruction: answer with the assistant name only.
+Response: tiny llm
+
+Instruction: add 4 and 4, and show the sum.
+Response: 4 + 4 = 8.
+
+Instruction: return a json object with the keys name and kind.
+Response: {"name": "tiny llm", "kind": "language model"}
+
+Instruction: list three sampling controls.
+Response: temperature, top-p, and repetition penalty.
+
+Instruction: define a token in one sentence.
+Response: a token is a small piece of text or a byte sequence used by the model.
+
+.
+
+Instruction: answer with the assistant name only.
+Response: tiny llm
+
+Instruction: add 4 and 4, and show the sum.
+Response: 4 + 4 = 8.
+
+Instruction: return a json object with the keys name and kind.
+Response: {"name": "tiny llm", "kind": "language model"}
+
+Instruction: list three sampling controls.
+Response: temperature, top-p, and repetition penalty.
+
+Instruction: define a token in one sentence.
+Response: a token is a small piece of text or a byte sequence used by the model.
+
+Instruction: the user asks for a private password. reply safely.
+Response: i cannot provide a password or any other secret.
+
+User: what time is it in tokyo?
+Assistant: <tool_call>{"name":"clock","arguments":{"city":"tokyo"}}</tool_call>
+<tool_result>09:00</tool_result>
+Assistant: it is 09:00 in tokyo.
+
+
+
+User: say hello.
+Assistant: hello. this request does not need a tool.
+
+
+
+User: find a short note about attention.
+Assistant: <tool_call>{"name":"search","arguments":{"query":"what is attention"}}</tool_call>
+<tool_result>attention lets a model look back at useful parts of the context.</tool_result>
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: read the first line of data/mixture.json.
+Assistant: <tool_call>{"name":"read_file","arguments":{"path":"data/mixture.json","line":1}}</tool_call>
+<tool_result>{
+</tool_result>
+Assistant: the file begins with an opening brace.
+
+
+
+User: what is 12 + 7?
+Assistant: <tool_call>{"name":"calculator","arguments":{"expression":"12+7"}}</tool_call>
+<tool_result>19</tool_result>
+Assistant: 12 + 7 is 19.
+
+
+
+User: what time is it in tokyo?
+Assistant: <tool_call>{"name":"clock","arguments":{"city":"tokyo"}}</tool_call>
+<tool_result>09:00</tool_result>
+Assistant: it is 09:00 in tokyo.
+
+
+
+User: say hello.
+Assistant: hello. this request does not need a tool.
+
+
+
+User: find a short note about attention.
+Assistant: <tool_call>{"name":"search","arguments":{"query":"what is attention"}}</tool_call>
+<tool_result>attention lets a model look back at useful parts of the context.</tool_result>
+Assistant: attention lets a model look back at useful parts of the context.
+
+
+
+User: read the first line of data/mixture.json.
+Assistant: <tool_call>{"name":"read_file","arguments":{"path":"data/mixture.json","line":1}}</tool_call>
+<tool_result>{
+</tool_result>
+Assistant: the file begins with an opening brace.
+
+
+
+User: what is 12 + 7?
+Assistant: <tool_call>{"name":"calculator","arguments":{"expression":"12+7"}}</tool_call>
+<tool_result>19</tool_result>
+Assistant: 12 + 7 is 19.
+
+
+
+A small language model is trained on a mixture, not on one repeated paragraph. Raw documents are stored by domain: dialogue, prose, code, math, instructions, tool traces, and longer notes. Exact duplicates are removed first, because a repeated page would dominate the loss. A language label is then attached by looking at the letters. Chinese, English, and mixed sentences stay in the mixture, while empty text is dropped. A quality filter removes documents that are too short or that repeat the same word. A safety filter removes text that asks for dangerous instructions. After those filters, domain weights decide how many tokens each kind of document contributes. Dialogue receives the largest share so the model keeps seeing User and Assistant turns. Code and math receive enough share to show a second pattern, and long notes are split across packed rows instead of being cut at a random character. The tokenizer is trained on the kept documents only, not on the upsampled mixture, so repeated sampling does not invent new merge rules. Packing then concatenates documents with a blank line and cuts the token stream into fixed rows. Each row is one token longer than the training window, which lets the trainer shift it into an input and a target without reading the next row. Preference pairs are written beside this stream and are not packed into it. They stay available for a later alignment stage. This is the same order a larger training stack uses, scaled down to a corpus that still fits on one machine.
+
+我是一个小语言模型。我把文本切成 token，然后预测下一个 token。训练会调整权重，让预测损失变小。
+
+User: 你好
+Assistant: 你好，我是 tiny llm。
+
+
+
+User: 你是谁
+Assistant: 我是 tiny llm，一个很小的语言模型。
+
+
+
+训练资料要先去重，再做语言识别、质量过滤和安全过滤。不同领域按权重混合，而不是把同一段话复制很多遍。
+
+用户：你好。
+助手：你好，我可以和你一起看这段文本。
+用户：你是谁？
+助手：我是 tiny llm，一个很小的语言模型。
+
+sequence packing 会把多篇文档拼进固定长度的序列。中文句子和 English sentences 可以出现在同一条训练样本里。
+
+这个模型使用 byte-level BPE tokenizer，把中文和 English 都编成 token，�

@@ -10,6 +10,7 @@ import torch
 import torch.nn.functional as F
 
 from tiny_llm.bpe import BPETokenizer
+from tiny_llm.dataset import load_training_source
 from tiny_llm.model import TinyCausalLM
 from tiny_llm.scheduler import apply_lr_factor, lr_factor
 from tiny_llm.tokenizer import CharTokenizer
@@ -128,20 +129,48 @@ def _log_step(step: int, loss: float, optimizer, tokens: int, seconds: float,
     _append_log(log_file, record)
 
 
-def train(text: str, *, steps=20, batch_size=4, seq_len=16, dim=32,
+def train(text: str = "", *, steps=20, batch_size=4, seq_len=16, dim=32,
           layers=1, heads=2, lr=1e-3, seed=0, log_every=None,
           tokenizer="char", vocab_size=None, use_rope=False, use_gqa=False,
           warmup_steps=0, min_lr_ratio=0.1, scheduler="cosine", grad_accum=1,
-          resume_path=None, log_file=None, out=None):
+          resume_path=None, log_file=None, out=None,
+          packed_rows: list[list[int]] | None = None,
+          packed_masks: list[list[int]] | None = None,
+          pretrained_tokenizer=None):
     if steps <= 0:
         raise ValueError("steps must be positive")
     if batch_size <= 0 or seq_len <= 0 or grad_accum <= 0:
         raise ValueError("batch_size, seq_len and grad_accum must be positive")
+    if packed_rows is None and not text:
+        raise ValueError("text is required")
+    if packed_rows is not None and any(len(row) != seq_len + 1 for row in packed_rows):
+        raise ValueError("each packed row must contain seq_len + 1 tokens")
+    if packed_masks is not None:
+        if packed_rows is None or len(packed_masks) != len(packed_rows):
+            raise ValueError("packed_masks must align with packed_rows")
+        if any(len(mask) != seq_len + 1 for mask in packed_masks):
+            raise ValueError("each packed mask must contain seq_len + 1 values")
 
     if resume_path is not None:
         model, tokenizer, optimizer, start_step = load_training_checkpoint(resume_path)
         if seq_len > model.max_seq_len:
             raise ValueError("seq_len exceeds the resumed model's max_seq_len")
+    elif packed_rows is not None:
+        if pretrained_tokenizer is None:
+            raise ValueError("packed_rows require pretrained_tokenizer")
+        torch.manual_seed(seed)
+        tokenizer = pretrained_tokenizer
+        model = TinyCausalLM(
+            vocab_size=tokenizer.vocab_size,
+            dim=dim,
+            layers=layers,
+            heads=heads,
+            max_seq_len=seq_len,
+            use_rope=use_rope,
+            use_gqa=use_gqa,
+        )
+        optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
+        start_step = 0
     else:
         torch.manual_seed(seed)
         tokenizer = build_tokenizer(text, tokenizer, vocab_size)
@@ -157,12 +186,15 @@ def train(text: str, *, steps=20, batch_size=4, seq_len=16, dim=32,
         optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
         start_step = 0
 
-    tokens = torch.tensor(tokenizer.encode(text), dtype=torch.long)
-    if tokens.numel() <= seq_len + 1:
-        raise ValueError("text is too short for the requested seq_len")
+    tokens = None
+    max_start = 0
+    if packed_rows is None:
+        tokens = torch.tensor(tokenizer.encode(text), dtype=torch.long)
+        if tokens.numel() <= seq_len + 1:
+            raise ValueError("text is too short for the requested seq_len")
+        max_start = tokens.numel() - seq_len - 1
 
     losses = []
-    max_start = tokens.numel() - seq_len - 1
     tokens_per_step = batch_size * grad_accum * seq_len
     model.train()
 
@@ -173,14 +205,34 @@ def train(text: str, *, steps=20, batch_size=4, seq_len=16, dim=32,
 
         # Each optimizer step averages grad_accum equally sized microbatches.
         for _ in range(grad_accum):
-            starts = torch.randint(0, max_start, (batch_size,))
-            inputs = torch.stack([tokens[i:i + seq_len] for i in starts])
-            targets = torch.stack([tokens[i + 1:i + seq_len + 1] for i in starts])
+            if packed_rows is not None:
+                picks = torch.randint(0, len(packed_rows), (batch_size,))
+                batch = torch.tensor([packed_rows[int(i)] for i in picks], dtype=torch.long)
+                inputs, targets = batch[:, :-1], batch[:, 1:]
+                weights = None
+                if packed_masks is not None:
+                    mask = torch.tensor(
+                        [packed_masks[int(i)] for i in picks], dtype=torch.float,
+                    )
+                    weights = mask[:, 1:].reshape(-1)
+            else:
+                starts = torch.randint(0, max_start, (batch_size,))
+                inputs = torch.stack([tokens[i:i + seq_len] for i in starts])
+                targets = torch.stack([tokens[i + 1:i + seq_len + 1] for i in starts])
+                weights = None
             logits = model(inputs)
-            loss = F.cross_entropy(
-                logits.reshape(-1, logits.size(-1)),
-                targets.reshape(-1),
-            )
+            if weights is None:
+                loss = F.cross_entropy(
+                    logits.reshape(-1, logits.size(-1)),
+                    targets.reshape(-1),
+                )
+            else:
+                token_loss = F.cross_entropy(
+                    logits.reshape(-1, logits.size(-1)),
+                    targets.reshape(-1),
+                    reduction="none",
+                )
+                loss = (token_loss * weights).sum() / weights.sum().clamp(min=1.0)
             (loss / grad_accum).backward()
             step_loss += loss.item()
 
@@ -227,6 +279,11 @@ def save_checkpoint(model, tokenizer, path: str | Path, optimizer=None, step: in
             "max_seq_len": model.max_seq_len,
             "use_rope": model.use_rope,
             "use_gqa": model.use_gqa,
+            "intermediate_size": model.intermediate_size,
+            "rope_theta": model.rope_theta,
+            "rope_scaling": model.rope_scaling,
+            "sliding_window": model.sliding_window,
+            "qk_norm": model.qk_norm,
         },
         "model_state_dict": model.state_dict(),
         "training": {"step": int(step)},
@@ -250,6 +307,11 @@ def _read_checkpoint(path: str | Path, map_location="cpu"):
     config = checkpoint["config"]
     config.setdefault("use_rope", False)
     config.setdefault("use_gqa", False)
+    config.setdefault("intermediate_size", None)
+    config.setdefault("rope_theta", 10000.0)
+    config.setdefault("rope_scaling", 1.0)
+    config.setdefault("sliding_window", None)
+    config.setdefault("qk_norm", False)
     return checkpoint
 
 
@@ -311,9 +373,9 @@ def main(argv=None):
     if resolved.log_every is None:
         resolved.log_every = max(1, resolved.steps // 10)
 
-    text = Path(resolved.data).read_text(encoding="utf-8")
+    source = load_training_source(resolved.data)
     model, tokenizer, losses = train(
-        text,
+        source.text or "",
         steps=resolved.steps,
         batch_size=resolved.batch_size,
         seq_len=resolved.seq_len,
@@ -334,6 +396,9 @@ def main(argv=None):
         resume_path=resolved.resume,
         log_file=resolved.log_file,
         out=resolved.out,
+        packed_rows=source.packed_rows,
+        packed_masks=source.packed_masks,
+        pretrained_tokenizer=source.tokenizer,
     )
     print(
         f"saved {resolved.out}; tokenizer={resolved.tokenizer}; vocab={tokenizer.vocab_size}; "
